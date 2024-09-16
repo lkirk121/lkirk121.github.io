@@ -2,7 +2,7 @@
 
 It’s been a couple of weeks in Tsiigehtchic so far. The last two weeks have been overwhelming. When we arrived at school, there was no working internet. Not so easy when a technician is a day’s drive away, and most of the school information (for example, what courses we are running this year) is stored in the “cloud”. For the first week, then, all we could do was prepare our classroom.⁠
 
-![image 2.png](https://github.com/lkirk121/lkirk121.github.io/blob/main/_posts/image%202.png "Getting the classroom ready")
+![image.png](image.png "Getting the classroom ready")
 
 That was several day’s work on its own. We found mountains of textbooks, science equipment, art supplies, old notebooks, student work from previous years. We started by pulling everything out of the cupboards, and shelves and closets. Our goal was to set up a classroom where students could see themselves represented in the room, rather than overwhelmed by rows of math and science and English textbooks crowding the shelves.
 
