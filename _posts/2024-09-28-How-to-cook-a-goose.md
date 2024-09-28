@@ -2,6 +2,8 @@
 
 Over the last week we held a number of events. Our students took part in a "shore set fishing" day (I'll explain what that is), we had an Orange Shirt Day walk on Thursday, and on Friday (yesterday) the staff had a "Cultural Orientation" PD Day. We learned how to clean, smoke, and catch a fish. How to clean and cook a goose. We spoke with two of the Elders from the community, about what they'd like to see in our school. Also, I've started a musical collaboration with the captain of the ferry *LV Cardinal* that carries cars travelling the Dempster Highway across the Mackenzie. All the while, our classes at school are up and running.
 
+![landscape](/assets/09-28/landscape.jpeg)
+
 ### Teaching
 
 Our school is small. We have six teachers, once principal, and two support staff. All our students together, from K-12, would be enough to fill one big English class from a southern high school. The other day, one of the teachers at our school commented that her high school (which had around 1,000 students), had a larger population than the entire community of Tsiigehtchic. We have about twenty students in the High School, and about twenty in the Primary and Middle School.
@@ -37,4 +39,10 @@ In some ways, I think teaching at the start of the year is like starting a rusty
 
 ### How to cook a goose?
 
+![soup](/assets/09-28/soup.jpeg)
+
 ### How to be a part of Truth and Reconciliation?
+
+![flag](/assets/09-28/flag.jpeg)
+
+![shirts](/assets/09-28/shirts.jpeg)
