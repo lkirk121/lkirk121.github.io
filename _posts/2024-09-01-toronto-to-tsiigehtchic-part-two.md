@@ -21,7 +21,7 @@ One of the attendants pointed me towards a set of double doors labelled "Exports
 
 A forklift arrived with two wooden palates, and positioned them on an in-floor weigh-scale. The operator asked me to place my bags, two bags per palate.
 
-![bags on pallate](assets/08-31/image(1).png)
+![bags on pallate](/assets/08-31/image(1).png)
 
 While I was lifting them into place, he commented on my cello:
 
