@@ -4,7 +4,7 @@ August 31, 2024
 
 The entire relocation to Tsiigetchic was paid for by the Government of Northwest Territories Relocation Assistance. They paid for my flight, meals, and for six pieces of excess baggage (weighing up to 70lbs each). I packed all seven bags carefully the night before, and piled them even more carefully on the airport dolly when I arrived at Pearson the next morning
 
-![stacked luggage](../docs/assets/image.png)
+![stacked luggage](../_assets/image.png)
 
 When I arrived at the WestJet check-in, an agent informed me I could only fly with 4 bags, no exceptions. They only way was to send them through a separate cargo shipment. She looked at her clock, said there were three hours before the departure, and said “you have time, you just need to make sure you’re ready by 11:30... and no later than 11:50.”
 
