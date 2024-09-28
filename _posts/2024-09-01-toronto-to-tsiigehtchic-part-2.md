@@ -1,4 +1,4 @@
-## Toronto to Tsiigehtchic (Part Two: Halifax!?)
+## Toronto to Tsiigehtchic (Part 2): Halifax!?
 
 August 31, 2024
 
