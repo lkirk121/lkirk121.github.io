@@ -1,4 +1,4 @@
-## Toronto to Tsiigehtchic Part 3: Edmonton to Inuvik
+## Toronto to Tsiigehtchic (Part 3): Edmonton to Inuvik
 
 ### Edmonton to Yellowknife
 
