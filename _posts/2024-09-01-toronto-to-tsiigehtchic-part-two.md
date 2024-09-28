@@ -4,7 +4,7 @@ August 31, 2024
 
 The entire relocation to Tsiigetchic was paid for by the Government of Northwest Territories Relocation Assistance. They paid for my flight, meals, and for six pieces of excess baggage (weighing up to 70lbs each). I packed all seven bags carefully the night before, and piled them even more carefully on the airport dolly when I arrived at Pearson the next morning
 
-![stacked luggage](/assets/image.png)
+![stacked luggage](/assets/08-31/image.png)
 
 When I arrived at the WestJet check-in, an agent informed me I could only fly with 4 bags, no exceptions. They only way was to send them through a separate cargo shipment. She looked at her clock, said there were three hours before the departure, and said “you have time, you just need to make sure you’re ready by 11:30... and no later than 11:50.”
 
@@ -21,7 +21,7 @@ One of the attendants pointed me towards a set of double doors labelled "Exports
 
 A forklift arrived with two wooden palates, and positioned them on an in-floor weigh-scale. The operator asked me to place my bags, two bags per palate.
 
-![bags on pallate](../docs/assets/image(1).png)
+![bags on pallate](assets/08-31/image(1).png)
 
 While I was lifting them into place, he commented on my cello:
 
@@ -141,7 +141,7 @@ The man insisted that I find a market. He said this is business, you look for op
 
 (I later found out that there were camels in Canada, during the Klondike gold rush, and even earlier, thousands of years ago during ancient migrations). The socks, by the way, are some of the warmest socks I’ve ever worn. As the unofficial Arctic ambassador for Camel Care Socks, I can assure you they’ll keep your feet warm, and very comfortable, on your next trip to Inuvik. You can find them here: www.camelcare.store)
 
-![socks](../docs/assets/image(2).png)
+![socks](/assets/08-31/image(2).png)
 
 ### Where is the taxi?
 
@@ -229,7 +229,7 @@ They wished me a safe flight.
 
 From there, the only unusual thing were a few glances I got at boarding, when the flight attendants reviewed my ticket. They didn’t say anything. Maybe this was just another crazy day at the airport for them. I stowed my bag, and relaxed into the seat of the airplane. While we taxied to the runway, and took off, I couldn’t help grinning. Here I was, on my way to Inuvik, flying off to Halifax, in the complete opposite direction.
 
-![Halifax](../docs/assets/image(3).png)
+![Halifax](/assets/08-31/image(3).png)
 
 At some point, while I was being passed from agent to agent at the airport, one of the team leaders put a hand on shoulders of the agent who was helping me, and said, (knowingly, or sarcastically),
 
@@ -239,4 +239,4 @@ I don’t know if it was some inside joke, the check-in attendant’s version of
 
 All this day, I can’t express how grateful I was for the help of the people around me. Sometimes when you stand back and watch, you see how much people are trying to juggle. Sometimes you have to wait. Sometimes you have to butt in. Always, try to be understanding. And always, call the airline if you’re flying with more than 3 checked bags :)
 
-![Map](../docs/assets/image(4).png)
+![Map](/assets/08-31/image(4).png)
