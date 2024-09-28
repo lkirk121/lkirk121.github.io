@@ -4,7 +4,7 @@ August 31, 2024
 
 The entire relocation to Tsiigetchic was paid for by the Government of Northwest Territories Relocation Assistance. They paid for my flight, meals, and for six pieces of excess baggage (weighing up to 70lbs each). I packed all seven bags carefully the night before, and piled them even more carefully on the airport dolly when I arrived at Pearson the next morning
 
-image.png
+![stacked luggage](../docs/assets/image.png)
 
 When I arrived at the WestJet check-in, an agent informed me I could only fly with 4 bags, no exceptions. They only way was to send them through a separate cargo shipment. She looked at her clock, said there were three hours before the departure, and said “you have time, you just need to make sure you’re ready by 11:30... and no later than 11:50.”
 
@@ -13,7 +13,7 @@ I sat down in the middle of the terminal, and started calling airlines, to see w
 I hurried out of the terminal and got a cab to 2850 Brimely Road. The cab there was 12 minutes. The road goes right beside the airport perimeter, separated only by a chain-link fence. You can see aeroplanes right up close, parked on the tarmac, taking off, and landing. I was having a great time. It was a fun extra adventure. When we arrived, I asked the driver to wait, but he said his limit was 10 minutes. I’d have to call another cab. My first inkling of doubt crept in.
 
 
-Air Canada Cargo
+### Air Canada Cargo
 
 The Air Canada Cargo terminal looks like a large industrial warehouse. It has a concrete stairway, and two double doors at the main entrance. Beyond that are rows of loading bays for transport trucks, surrounded by large parking lot. I lugged by bags up the front steps. Inside, it looked like a regular airline check-in, except there was no one waiting in line.
 
@@ -21,7 +21,7 @@ One of the attendants pointed me towards a set of double doors labelled "Exports
 
 A forklift arrived with two wooden palates, and positioned them on an in-floor weigh-scale. The operator asked me to place my bags, two bags per palate.
 
-image.png
+![bags on pallate](../docs/assets/image(1).png)
 
 While I was lifting them into place, he commented on my cello:
 
@@ -99,7 +99,7 @@ Within a few moments, a forklift had picked up my bags, and carried them off to 
 
 I collected my remaining carry on bags, waved goodbye, and said thank-you to the woman at the check-in counter, and walked back out to the entrance. Back out front the terminal, I called for a cab, and was told they'd arrive shortly.
 
-Socks
+### Socks
 
 While I waited, sitting on the front steps, a man walked up to me. “Are you a reader? He asked. My personal bag was open, exposing a book I‘d packed for the flight
 
@@ -141,9 +141,9 @@ The man insisted that I find a market. He said this is business, you look for op
 
 (I later found out that there were camels in Canada, during the Klondike gold rush, and even earlier, thousands of years ago during ancient migrations). The socks, by the way, are some of the warmest socks I’ve ever worn. As the unofficial Arctic ambassador for Camel Care Socks, I can assure you they’ll keep your feet warm, and very comfortable, on your next trip to Inuvik. You can find them here: www.camelcare.store)
 
-image.png
+![socks](../docs/assets/image(2).png)
 
-Where is the taxi?
+### Where is the taxi?
 
 The taxi still had not arrived. I checked my phone, and it was almost 11:30. I called the taxi company to ask about the cab. They said it would be there in 5 minutes - I said my flight was leaving at noon – they replied the cab would be there in 5 minutes. This was going to be close. Just then my phone entered super power-saver mode. The screen went dark, and I couldn't see the time, or screen, or open the phone to make calls. I was standing in an empty parking lot, waiting.
 
@@ -229,7 +229,7 @@ They wished me a safe flight.
 
 From there, the only unusual thing were a few glances I got at boarding, when the flight attendants reviewed my ticket. They didn’t say anything. Maybe this was just another crazy day at the airport for them. I stowed my bag, and relaxed into the seat of the airplane. While we taxied to the runway, and took off, I couldn’t help grinning. Here I was, on my way to Inuvik, flying off to Halifax, in the complete opposite direction.
 
-image.png
+![Halifax](../docs/assets/image(3).png)
 
 At some point, while I was being passed from agent to agent at the airport, one of the team leaders put a hand on shoulders of the agent who was helping me, and said, (knowingly, or sarcastically),
 
@@ -239,4 +239,4 @@ I don’t know if it was some inside joke, the check-in attendant’s version of
 
 All this day, I can’t express how grateful I was for the help of the people around me. Sometimes when you stand back and watch, you see how much people are trying to juggle. Sometimes you have to wait. Sometimes you have to butt in. Always, try to be understanding. And always, call the airline if you’re flying with more than 3 checked bags :)
 
-image.png
+![Map](../docs/assets/image(4).png)
