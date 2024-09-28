@@ -1,4 +1,4 @@
-## Toronto to Tsiigehtchic (Part 1: Leaving Home)
+## Toronto to Tsiigehtchic (Part 1): Leaving Home
 
 A few days ago I started an adventure to the Northwest Territories that will last until next year. I’m moving to the Hamlet of Tsiigehtchic to teach Grade 7-12 Humanities for the 2024-5 school year. Tsiigehtchic is a small community of a hundred and seventy people, just north of the Arctic Circle. Imagine where the letter “N” in “Northwest Territories” is on a map of Canada, and you’ll have a good idea of Tsiigehtchic’s location. Or, if you prefer driving directions, imagine driving west from Toronto, a few days, until you reach Edmonton, turn north, drive a couple days north to Dawson City. Turn right when you get to the Dempster highway, and drive north to Arctic Circle, and keep driving north for a few hours. When you get to the ferry crossing at confluence of the Mackenzie and Tsiigehnjiik Rivers (about 300 kilometers from the Arctic Ocean), you will have arrived at Tsiigehtchic.
 
