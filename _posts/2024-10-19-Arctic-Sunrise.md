@@ -2,6 +2,8 @@
 
 “It’s 9:47 am, and the sun has just started poking over the horizon. Signs all around us are indicating that winter is on its way. Perhaps the most obvious sign is the snow…”
 
+![test dropbox image](https://www.dropbox.com/scl/fi/5gdi9nke92sjqes3jv0pv/IMG_0078.JPG?rlkey=p6zenor3k43eavvd7sk5xmhmg&st=lseo97dw&raw=1)
+
 While I was trying to get caught up on the last few weeks of writing, I looked out my window to a stunning 10am sunrise. A few minutes later, I had my parka, mitts, and boots on, and was walking my way down to the riverside to catch the sunrise. 
 
 All this week it’s been a long slog of getting prepared for teach day of teaching. First year teaching is often a challenge. I’ve been working after school each day, trying to get lessons ready for the next day. Each day in class, each evening on my computer to figure out the next day. This cycle felt like it was slowly driving me into the ground. When Friday evening finally arrived, I cleaned up my apartment, turned off my morning alarm, and slept.
