@@ -27,7 +27,7 @@ I thought of my students, many of whom spend time gaming after school. For those
 
 This is a puzzle to contend with. Billion-dollar industries have influence over hours of our student’s time. We can’t ignore it, or put it away. Even if we eliminate phone and computer use during the 6 hours of school, there are still 18 hours each day. Most people in North America are on a screen 7 hours or more, each day.[^1] That’s a huge influence on how we think.
 
-[^1]: A 2022 study estimates that the average North American spends 7 hours per day on a screen, with children 11-14 spending upwards of 9 hours per day, ![report.](https://www.wcnc.com/article/money/personal-finance/get-ahead/screen-time-adult-american-computer-ipad-iphone/275-a25c887b-f586-4bc7-bb1d-05eccdfce111)
+[^1]: A 2022 study estimates that the average North American spends 7 hours per day on a screen, with children 11-14 spending upwards of 9 hours per day, [report.](https://www.wcnc.com/article/money/personal-finance/get-ahead/screen-time-adult-american-computer-ipad-iphone/275-a25c887b-f586-4bc7-bb1d-05eccdfce111)
 
 During the few hours that I put my computer away this morning, to walk down to the river, and back, my feeling changed dramatically. I felt awake, and alert. Was it just the screen time? Maybe the dark mornings, or the stress of being a first year teacher? I don’t know, but it renewed my interest in finding a way to get our students out of the classroom, and out on the land.     
 
@@ -40,3 +40,5 @@ We were also down two other teachers this week. Two of them got sick for a day. 
 Its 12pm now, and I need to get to some lesson planning. Next week, our curriculum support mentor is visiting the school. I’ll have a chance to get some in-person feedback about how my teaching is going. Its going to be a good week. 
 
 PS. I’ve tried to find a way to set up comments, but they are hard for me to set up on a stand-alone website. Here’s an email: torontototsiigehtchicATgmail.com (replace AT with @). Please feel welcome to write me here. 
+
+---
