@@ -16,7 +16,7 @@ This morning, even after 10 hours of sleep, I felt exhausted. It didn’t make s
 
 The sunrise called me out of the house. I took a walk down to the riverside. The sides of the river are already forming ice. It’s probably strong enough that you could stand on it (although I didn’t try). While I stood there I could hear a sort of chirping sound resonating trough the ice. While I watched, I also noticed that the ice, which I thought was completely stationary, was slowly lifting and falling with the swell of the river. It looked and sounded like the ice was breathing. Up above a few ravens flew by. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C0Dv7-0KrE8?si=aLVxTPnt9E3HFepR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C0Dv7-0KrE8?si=B01iUea1XX5wejZG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 After spending some time by the water, I walked back up to my apartment. A few other people were out in town. It felt like the day was beginning. When I got back to my apartment, I felt so much more awake and alert. Maybe it was the sun, maybe it was the walk, or the cold outside air on my face. Maybe it was just being outside. 
 
