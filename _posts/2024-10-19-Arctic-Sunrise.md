@@ -2,19 +2,27 @@
 
 “It’s 9:47 am, and the sun has just started poking over the horizon. Signs all around us are indicating that winter is on its way. Perhaps the most obvious sign is the snow…”
 
-![test dropbox image](https://www.dropbox.com/scl/fi/5gdi9nke92sjqes3jv0pv/IMG_0078.JPG?rlkey=p6zenor3k43eavvd7sk5xmhmg&st=lseo97dw&raw=1)
+![snow](https://www.dropbox.com/scl/fi/hh2hrdr9awkzjkttn2fv7/20241015_175107.jpg?rlkey=0zj4p4wv2i3bufef9vpcoiwmx&st=bt9a4uke&raw=1)
 
 While I was trying to get caught up on the last few weeks of writing, I looked out my window to a stunning 10am sunrise. A few minutes later, I had my parka, mitts, and boots on, and was walking my way down to the riverside to catch the sunrise. 
+
+![sunrise](https://www.dropbox.com/scl/fi/f7q2qrzp1isfmjucc0r1v/20241019_101414.jpg?rlkey=wh7p9lrvsvlicixak7gdrm79q&st=386qnhaj&raw=1)
 
 All this week it’s been a long slog of getting prepared for teach day of teaching. First year teaching is often a challenge. I’ve been working after school each day, trying to get lessons ready for the next day. Each day in class, each evening on my computer to figure out the next day. This cycle felt like it was slowly driving me into the ground. When Friday evening finally arrived, I cleaned up my apartment, turned off my morning alarm, and slept.
 
 This morning, even after 10 hours of sleep, I felt exhausted. It didn’t make sense. Around 8am I crawled out of bed, made some tea, and ate breakfast. It was still pitch black outside. Maybe that was the cause? All this week I’d hardly been outside while the sun was out. Maybe that’s what was missing.
 
+![house](https://www.dropbox.com/scl/fi/5jdykitu2enfno3eril92/20241019_102123.jpg?rlkey=2umvkfz2e195wizpemzyo1cp8&st=6zw2qfvd&raw=1)
+
 The sunrise called me out of the house. I took a walk down to the riverside. The sides of the river are already forming ice. It’s probably strong enough that you could stand on it (although I didn’t try). While I stood there I could hear a sort of chirping sound resonating trough the ice. While I watched, I also noticed that the ice, which I thought was completely stationary, was slowly lifting and falling with the swell of the river. It looked and sounded like the ice was breathing. Up above a few ravens flew by. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C0Dv7-0KrE8?si=aLVxTPnt9E3HFepR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 After spending some time by the water, I walked back up to my apartment. A few other people were out in town. It felt like the day was beginning. When I got back to my apartment, I felt so much more awake and alert. Maybe it was the sun, maybe it was the walk, or the cold outside air on my face. Maybe it was just being outside. 
 
 I thought of my students, many of whom spend huge amounts of time gaming after school. For those of us who grew up without video games, its hard to understand how immersive modern games are. Old Nintendo games were about beating levels as fast as possible: the game starts and you run, jump, power-up, and beat the level. Then you move on to the next level, until you beat the game. Some modern games don’t have an end. Your character exists in an infinite, computer generated world. The world has no end.  Gameplay captures your emotions. You exist in a simulated world where you can survive, thrive, and grow. The digital world waits for you while you turn off your computer, and go to school. Modern games feel much more like living in a dream-world where you can control and interact with the imagined word around you. This is a powerful place, where, unlike the real world, you have full control of your actions. When the virtual world, with all its colours and vibrant actions, keeps waiting for you, how would you feel walking to school when the outside world looks like this:
+
+![dark](https://www.dropbox.com/scl/fi/m9e2kl0jkwjdzpzrr2bg9/20241008_071209.jpg?rlkey=7m4hitw9anl8q2n6575h6u8fj&st=nu7umawl&raw=1)
 
 This is a puzzle to contend with. Billion-dollar industries have influence over hours of our student’s time. We can’t ignore it, or put it away. Even if we eliminate phone and computer use during the 6 hours of school, there are still 18 hours each day. Most kids in North America are on a phone or computer 7 hours, or more, each day.* That’s a huge influence on how we think.
 
