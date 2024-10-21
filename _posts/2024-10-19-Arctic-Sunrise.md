@@ -49,9 +49,11 @@ We were all sad to see our grade 4-6 teacher, and her husband, leave at the star
 
 Just to add to the fun, two of our five teachers got sick this week. Half of our work-force was missing, and the nearest supply teacher was... nowhere. There aren’t any supply teachers here. We’re on our own. Lukcily, the day went well. I subbed-in as the Gwich'in language teacher, and the kids taught me a few phrases. We all pulled together, and thankfully, by the end of the week, everyone was back. 
 
-Its the end of the weekend now, and I need to get a few things ready for next week. Its going to be a good week. If I've managed to learn one this this week, its that your outlook on each day can have a huge impact on its outcome. Apparently, feeling alert is greatly influenced by your mindset, (according to a new sleep study)[https://www.bbc.com/future/article/20241014-need-a-good-nights-sleep-trying-changing-how-you-think-about-it]. It also helps to get physical exercize, and to eat well (this is according to one of the most reliable sources I know - my Mom!). 
+Its the end of the weekend now, and I need to get a few things ready for next week. Its going to be a good week. If I've managed to learn one this this week, its that your outlook on each day can have a huge impact on its outcome. Apparently, feeling alert is greatly influenced by your mindset, [according to a new sleep study](https://www.bbc.com/future/article/20241014-need-a-good-nights-sleep-trying-changing-how-you-think-about-it). It also helps to get physical exercize, and to eat well (this is according to one of the most reliable sources I know - my Mom!). It probably explains why getting out to see the sunrise on Saturday morning was such a good part of the weekend. 
 
 Here's to a beautiful Arctic Sunrise. Wishing you an excellent week ahead.   
+
+![sunset](https://www.dropbox.com/scl/fi/tie3dm50wg13gti8rpelz/20241020_185113.jpg?rlkey=wmfsxii59zv32k5dt6hmanjz3&raw=1)
 
 ---
 
