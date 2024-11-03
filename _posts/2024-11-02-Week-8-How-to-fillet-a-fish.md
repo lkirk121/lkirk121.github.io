@@ -71,11 +71,11 @@ For the fish eggs (which I found out is called "Roe") I followed directions onli
   
 I still had four large fillets, four carcass sections (which I will use as a soup base), and a container of Roe. This was after I shared cooked fillets with my two neighbours, and another teacher who lives down the road. I estimate that this one fish gave 30 portions. If I'd known what to do with the head and tail, there could have been several more portions from it. What an amazing animal. 
 
-![portions](https://www.dropbox.com/scl/fi/3rize3q1gdbtkq80y520d/20241102_165632.jpg?rlkey=4rx0auihbtr40fibod6vwb2xr&st=o4bclk4i&raw=1)
+![cooked-fish](https://www.dropbox.com/scl/fi/v5702m9ymiidz6bgkchdd/20241102_174253.jpg?rlkey=uwkabeuedzvvoq6n8ywz2dqxk&st=j9j2jh1f&raw=1)
 
 I felt exhausted by the end of it all. It took another hour of dishes, and a load of laundry, to clean the kitchen. The slime is impossible to get off your hands, but it comes off easily with vinegar. That was another great Youtube tip.
 
-This was a good day - an unexpected day, and very humbling. Thinking back to the students in my classes, this is something that perhaps not all have had experience with. The process of learning how to work with this fish was huge. I don't know how to put this into their classroom learning. I don't think there's a Youtube video for that. I could spend hours scouring the internet for information, but my students are right there, waiting. I just have to try, make mistakes, and do the best I can.      
+This was a good day - an unexpected day, and very humbling. Thinking back to the students in my classes, this is something that perhaps not all have had experience with. At the same time, several already know how to work with fish and other animals. The process of learning how to work with this fish was huge. I don't know how to put this into their classroom learning. I don't think there's a Youtube video for that. I could spend hours scouring the internet for information for this, or any other thing, but my students are right there, waiting. I just have to try, make mistakes, and do the best I can.      
 
 Whishing you an excellent week ahead. 
 
