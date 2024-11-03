@@ -16,7 +16,10 @@ The Ferry made its last departure from Tsiigehtchic last Sunday. On it, was our 
 
   
 
-![ferry-departs](https://www.dropbox.com/scl/fi/ro88pomqxo4aagv8q1kug/20241027_133505.jpg?rlkey=r2pa6nbaxkn8ehnkehyvepy5a&st=yjhwp6yk&raw=1)
+![ferry-departs](https://www.dropbox.com/scl/fi/z4os477h8lr9wk2q4ceq6/20241027_133625.jpg?rlkey=decvryvudiq864uupef6gzu3s&st=1wpf37ww&raw=1)
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J-YhmVJPnJs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 During isolation we will get weekly shipments of food and mail by helicopter. The 15-minute helicopter ride from here to Inuvik, all of fifteen minutes, costs in the range of $1500-3000. Slightly more than the $450 cab ride I was used to. 
 
