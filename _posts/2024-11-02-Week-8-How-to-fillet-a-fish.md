@@ -60,7 +60,7 @@ In the end, there were five fillets and a carcass on the counter. There was the 
 
 All the same, once they were cleaned and sliced, there were several good looking fillets ready to bake. I had nothing but olive oil and salt to season them. They baked for 25 minutes at 375C. The fish tasted like buttery popcorn. It was incredible. Sometimes a simple recipe works best. 
 
-![cooked-fillets](https://www.dropbox.com/scl/fi/7d0z4tkh7g4m3xregn6ye/20241102_172537.jpg?rlkey=yuy5zy4k4dibo8q3sb4bb9o91&st=u4ay5fx4&raw=1)
+![cooked-fish](https://www.dropbox.com/scl/fi/v5702m9ymiidz6bgkchdd/20241102_174253.jpg?rlkey=uwkabeuedzvvoq6n8ywz2dqxk&st=j9j2jh1f&raw=1)
 
 For the fish eggs (which I found out is called "Roe") I followed directions online that suggested you soak them in brine for 30 minutes. You could eat them raw after that, but I wasn't ready for caviar. I took a lightly oiled cast iron pan, and added them in with a finely chopped onion, oregano, sprinkle of salt, and garlic powder. They tasted like warm, fatty quinoa. It was a delicacy. They were a bit too salty, but apparently less time in the brine can help that.
 
@@ -71,11 +71,14 @@ For the fish eggs (which I found out is called "Roe") I followed directions onli
   
 I still had four large fillets, four carcass sections (which I will use as a soup base), and a container of Roe. This was after I shared cooked fillets with my two neighbours, and another teacher who lives down the road. I estimate that this one fish gave 30 portions. If I'd known what to do with the head and tail, there could have been several more portions from it. What an amazing animal. 
 
-![cooked-fish](https://www.dropbox.com/scl/fi/v5702m9ymiidz6bgkchdd/20241102_174253.jpg?rlkey=uwkabeuedzvvoq6n8ywz2dqxk&st=j9j2jh1f&raw=1)
+![bagged-portions](https://www.dropbox.com/scl/fi/3rize3q1gdbtkq80y520d/20241102_165632.jpg?rlkey=4rx0auihbtr40fibod6vwb2xr&st=kacpe5u9&raw=1)
 
 I felt exhausted by the end of it all. It took another hour of dishes, and a load of laundry, to clean the kitchen. The slime is impossible to get off your hands, but it comes off easily with vinegar. That was another great Youtube tip.
 
-This was a good day - an unexpected day, and very humbling. Thinking back to the students in my classes, this is something that perhaps not all have had experience with. At the same time, several already know how to work with fish and other animals. The process of learning how to work with this fish was huge. I don't know how to put this into their classroom learning. I don't think there's a Youtube video for that. I could spend hours scouring the internet for information for this, or any other thing, but my students are right there, waiting. I just have to try, make mistakes, and do the best I can.      
+
+![gloves](https://www.dropbox.com/scl/fi/7btq1ukwlnwjjk19sdihh/20241102_165932.jpg?rlkey=wdt5k1tm3g94wgvpg9ou1n7ba&st=jzcvyf89&raw=1)
+
+This was a good day - an unexpected day, and very humbling. Thinking back to the students in my classes, this is something that perhaps not all have had experience with. At the same time, several already know how to work with fish and other animals. The process of learning how to work with this fish was huge. I don't know how to put this into their classroom learning. I don't think there's a Youtube video for that. I could spend hours scouring the internet for information for this, or any other thing, but my students are right there, waiting. I just have to try, make mistakes, and do the best I can.
 
 Whishing you an excellent week ahead. 
 
