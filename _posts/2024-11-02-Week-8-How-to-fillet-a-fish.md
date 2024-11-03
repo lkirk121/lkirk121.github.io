@@ -32,7 +32,7 @@ Back inside, I cleared off some space by the sink. A couple Youtube tutorials sa
 
 ![fish-on-side](https://www.dropbox.com/scl/fi/ozzib0tqvsprx15qgsbhz/20241102_141814.jpg?rlkey=ywfssvotof7keye5ycu9l1ju4&st=c5t35zs6&raw=1)
 
-The fish itself looked majestic. The face looked strong and powerful. The eyes looked clear and focused, the eyes of a hunter. The skin was speckled dark and light grey. The thick body suggested enormous muscular strength. I knew this was one of the most humane ways to recieve a fish, all the same, it felt tragic to lay out the pike on my kitchen counter. It was a powerful animal to have laying lengthways on the kitchen counter.   
+The fish itself looked majestic. The face looked strong and powerful. The eyes looked clear and focused, the eyes of a hunter. The skin was speckled dark and light grey. The thick body suggested enormous muscular strength. I knew this was one of the most humane ways to recieve a fish, all the same, it felt tragic to lay out the pike on my kitchen counter. It was a powerful animal to have on the kitchen counter.   
 
 ![pike](https://www.dropbox.com/scl/fi/z1le02hukxkpcresp5olg/20241102_142117.jpg?rlkey=9n9ye50eh6t053sx8sknxll9b&st=a5bmmpu2&raw=1)
 
