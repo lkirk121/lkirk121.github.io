@@ -65,11 +65,12 @@ All the same, once they were cleaned and sliced, there were several good looking
 For the fish eggs (which I found out is called "Roe") I followed directions online that suggested you soak them in brine for 30 minutes. You could eat them raw after that, but I wasn't ready for caviar. I took a lightly oiled cast iron pan, and added them in with a finely chopped onion, oregano, sprinkle of salt, and garlic powder. They tasted like warm, fatty quinoa. It was a delicacy. They were a bit too salty, but apparently less time in the brine can help that.
 
 <iframe width="315" height="560"
-src="[https://www.youtube.com/embed/<Shorts_video_code>](https://www.youtube.com/embed/IL0CIP1-jeE)"
+src="https://www.youtube.com/embed/IL0CIP1-jeE"
 title="YouTube video player"
 frameborder="0"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
 allowfullscreen></iframe>
+
 
 I still had four large fillets, four carcass sections (which I will use as a soup base), and a container of Roe. This was after I shared cooked fillets with my two neighbours, and another teacher who lives down the road. I estimate that this one fish gave 30 portions. If I'd known what to do with the head and tail, there could have been several more portions from it. What an amazing animal. 
 
