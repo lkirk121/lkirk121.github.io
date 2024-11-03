@@ -1,26 +1,26 @@
 ## Week 8: How to Fillet a Fish
 
-This afternoon, around 2pm, I was getting ready to go out for an afternoon ski. I'd just got out the door (and put my skiis on), when one of the communty elders pulled up infront of the teacher apartment. He rolled down his window, 
+This afternoon, around 2pm, I was getting ready to go out for an afternoon ski. I'd just got out the door, and put on my skiis, when one of the communty elders pulled up in front of the teacher apartment. He rolled down his window. 
 
-"Do you want some fish?" he said.
+"Do you want some fish?" He said.
 
 "Sure!" I replied. 
 
 He opened the driver door, got out, came around back, and opened the trunk. Sitting in the trunk, on a black garbage bag, was the biggest fish I'd ever seen. 
 
-"It's a pike" he said, and he explained that he'd caught it in his ice net on the Tsiigenjik River that morning (the river is completely frozen over now, enough that you can drive a skidoo on it. A number of people have ice nets set). 
+"It's a pike" he said. He explained that he'd caught it in his ice net on the Tsiigenjik River that morning. The pike was almost three feet long. 
 
-A fish like this would have cost a fair bit of money from a store, or from a rather expensive fishing trip. Here was one sitting in the trunk of a car, fresh from an Arctic River. I thought the elder could have used it. I asked, but he said I could have it. The serendipity was almost too much. Had I left the house 5 minutes earlier, this might have never happened.   
+A fish like that would have cost a fair bit of money from a store, or from an expensive fishing trip. Here was a northern pike, sitting in the trunk of a car, fresh from the Tsiigenjik River. I thought the elder could use it. I asked, but he said I could have it. The serendipity was almost too much. Had I left the house 5 minutes earlier, this might have never happened.   
 
 ![fish](https://www.dropbox.com/scl/fi/y09go27osg2scrgjsb0y8/20241102_135332.jpg?rlkey=8piop9vu99dcpfqzifqyqc7jm&st=l7xfjgc9&raw=1)
 
-I thanked him, and put my hands under the fish to lift it out of the trunk. It took both arms to lift it. It weighed almost 20 pounds, and felt like lifting a small animal. The fish was partly covered in snow, but still fresh. It sagged in my arms as I lifted it from the trunk. I could make out the fins, tail, gills, mouth, and eyes. It felt warm, I thought I could feel the pulse deep within it. 
+I thanked him, and put my hands under the fish to lift it out of the trunk. It took both arms to lift it. It weighed almost 20 pounds, and felt like lifting a small animal. The fish was partly covered in snow, but still fresh. It sagged in my arms as I lifted it from the trunk. I could make out the fins, tail, gills, mouth, and eyes. It felt warm. I thought I could feel a pulse deep within it. 
 
-Holding this fish in my hands, I looked up at the elder. I realized I had no idea how to care for a fish like this. I'd never cleaned a fish on my own before. "What do I do with this?"
+Holding this fish in my hands, I looked up at the elder. I realized I had no idea how to care for a fish like this. I'd never cleaned a fish on my own before. "What do I do with this?" I asked.
 
 "You could fillet it, I guess" he said. I imagined I could find a Youtube tutorial, or something, to help me out. "You could also hold it up, and take a picture, and tell people 'Hey! Look what I caught!'" He laughed. 
 
-"Thank you! If you ever need a hand with something let me know!"
+"Thank you" not knowing what else to say, I offered, "If you ever need a hand with something please let me know."
 
 He waved, got back into his car, and drove off. 
 
@@ -32,15 +32,15 @@ Back inside, I cleared off some space by the sink. A couple Youtube tutorials sa
 
 ![fish-on-side](https://www.dropbox.com/scl/fi/ozzib0tqvsprx15qgsbhz/20241102_141814.jpg?rlkey=ywfssvotof7keye5ycu9l1ju4&st=c5t35zs6&raw=1)
 
-The fish itself felt majestic. The face looked strong and powerful. The eyes looked clear and focused, the eyes of a hunter. The skin was speckled dark and light grey. The thick body suggested enormous muscular strength. The whole fish lay limp on the kitchen counter. I knew this was one of the most humane ways to have received a fish, all the same, it felt tragic to hold the fish limp in my hands. It was a powerful animal to have laying lengthways on the kitchen counter.   
+The fish itself felt majestic. The face looked strong and powerful. The eyes looked clear and focused, the eyes of a hunter. The skin was speckled dark and light grey. The thick body suggested enormous muscular strength. I knew this was one of the most humane ways to recieve a fish, all the same, it felt tragic to lay out the pike on my kitchen counter. It was a powerful animal to have laying lengthways on the kitchen counter.   
 
 ![pike](https://www.dropbox.com/scl/fi/z1le02hukxkpcresp5olg/20241102_142117.jpg?rlkey=9n9ye50eh6t053sx8sknxll9b&st=a5bmmpu2&raw=1)
 
-Before starting to fillet, I decided to wash the fish off. I started to run warm water over the head and upper body. The fish was still encrusted in snow, and as I rubbed snow off the face, the whole fish lurched. I shut off the water. The fish lay still again. While I had my hand on the side of the fish, I could have sworn I felt a pulse deep under the skin. The fish was possibly still alive. 
+Before starting to fillet, I decided to wash the fish off. I started to run warm water over the head and upper body. The fish was still encrusted in snow, and as I rubbed snow off the face, the whole fish lurched. I jumped back. The fish lay still again. I shut off the water. While I had my hand on the side of the fish, I could have sworn I felt a pulse deep under the skin. The fish was possibly still alive. 
 
-Maybe it was just a nervous reaction, maybe the fish was still alive. Either way, I needed to act fast. For myself and the fish, I wanted it to be over as quick as possible. All I could remember was a Youtube video I'd seen years before about how to humanely kill a fish. You had to cut through the gills behind the head, and bleed it out. I typed into google "How to kill...", which caught me for a moment, and then, "a pike." None of the fishing Youtube videos really covered this. They told you how to catch it, how to cook it, and to "like and subscribe, and check out our sponsor." I wished I had some experience with this, or had someone to show me. I could have spent hours searching online for an answer, but the fish was right next to me. I just had to try. I picked up my sharpest knife. 
+Maybe it was just nerve function, or maybe the fish was still alive. Either way, I needed to act fast. For myself and the fish, I wanted it to be over as quick as possible. All I could remember was a Youtube video I'd seen years before about how to humanely kill a fish. You had to cut through the gills behind the head, and bleed it out. I typed into google "How to kill...", which caught me for a moment, and then, "a pike." None of the fishing Youtube videos really covered this. They told you how to catch it, how to cook it, and to "like and subscribe, and check out our sponsor." All the Youtube sponsorships and glamourous camera shots seemed desenitized and detached from respecting an animal. I wished I had experience with this, or had someone to show me. I could have spent hours searching online for an answer, but the fish was still right next to me. I just had to try. I picked up my sharpest knife. 
 
-The knife pushed in behind the gill. I started to press and pull on the knife. As the knife cut through, my other hand pressed firmly against the fish's body. It was not a smooth cut. It was a messy, uneven cut through bone and cartilage. I imagined there would be a spine joint I could push through, but I couldn't find it. I had to keep cutting. My right hand pressed hard on the knife. My left hand held firmly against the body. It jerked as I cut. I could feel tension and release in the muscles. The fish lurched as I entered the spine, and again as I broke through the other side. 
+The knife pushed in behind the gill. I started to press and pull on the knife. As the knife cut through, my other hand pressed firmly against the pike's body. It was not a smooth cut. It was a messy, uneven cut through bone and cartilage. I was aware of every muscle, nerve, and bone. My left hand held firmly against the body. It jerked as I cut. I thought there would be a spine joint I could push through, but I couldn't find it. I had to keep cutting. My right hand pressed hard on the knife. I could feel tension and release in the muscles. The fish lurched as I entered the spine, and again as I broke through the other side. 
 
 ![body](https://www.dropbox.com/scl/fi/k9xmetfhnaum5n2uffcrr/20241102_143519.jpg?rlkey=fprjh73g4hf6o9zi7y0e87wzw&st=tr56ywrr&raw=1)
 
