@@ -14,29 +14,30 @@
     </div>
     
     <div id="lightbox-{{ include.id }}-{{ forloop.index }}" class="lightbox">
-      <div class="lightbox-content">
-        {% if media.type == "image" %}
-          <img src="{{ media.url }}" alt="{{ media.caption }}">
-        {% elsif media.type == "video" %}
-          <iframe 
-            src="{{ media.url }}" 
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-            allowfullscreen>
-          </iframe>
-        {% endif %}
-        <p>{{ media.caption }}</p>
+  <div class="lightbox-content">
+    {% if media.type == "image" %}
+      <img src="{{ media.url }}" alt="{{ media.caption }}">
+    {% elsif media.type == "video" %}
+      <iframe 
+        src="{{ media.url }}" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+      </iframe>
+    {% endif %}
+    <p>{{ media.caption }}</p>
 
-        <!-- Navigation Links -->
-        {% if forloop.first == false %}
-          <a href="#lightbox-{{ include.id }}-{{ forloop.index0 }}" class="lightbox-prev" aria-label="Previous">&#10094;</a>
-        {% endif %}
-        {% if forloop.last == false %}
-          <a href="#lightbox-{{ include.id }}-{{ forloop.index | plus: 1 }}" class="lightbox-next" aria-label="Next">&#10095;</a>
-        {% endif %}
+    <!-- Navigation Links -->
+    {% if forloop.first == false %}
+      <a href="#lightbox-{{ include.id }}-{{ forloop.index0 }}" class="lightbox-prev" aria-label="Previous">&#10094;</a>
+    {% endif %}
+    {% if forloop.last == false %}
+      <a href="#lightbox-{{ include.id }}-{{ forloop.index | plus: 1 }}" class="lightbox-next" aria-label="Next">&#10095;</a>
+    {% endif %}
 
-        <!-- Close Button -->
-        <a href="#close-{{ include.id }}" class="lightbox-close" aria-label="Close">&times;</a>
-      </div>
-    </div>
+    <!-- Close Button -->
+    <a href="#close-{{ include.id }}" class="lightbox-close" aria-label="Close">&times;</a>
+  </div>
+</div>
+
   {% endfor %}
 </div>
