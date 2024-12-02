@@ -1,89 +1,61 @@
-/* Navigation Buttons */
+/* General Button Styles */
 .lightbox-prev,
-.lightbox-next {
+.lightbox-next,
+.lightbox-close {
   position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
+  font-size: 2rem; /* Larger font size */
   color: white;
-  font-size: 2rem;
   text-decoration: none;
-  background: rgba(0, 0, 0, 0.5);
-  padding: 10px 20px;
-  border-radius: 5px;
-  cursor: pointer;
-  z-index: 1001;
-}
-
-.lightbox-prev {
-  left: 10px;
-}
-
-.lightbox-next {
-  right: 10px;
-}
-
-.lightbox-prev:hover,
-.lightbox-next:hover {
-  background: rgba(0, 0, 0, 0.8);
-}
-
-/* Lightbox Video Styling */
-.lightbox-content {
-  max-width: 90%;
-  max-height: 90%;
-  width: auto;
-  height: auto;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background: rgba(0, 0, 0, 0.9);
-  border-radius: 10px;
-  overflow: hidden;
-}
-
-.lightbox iframe {
-  width: 90%; /* Occupies 90% of the viewport width */
-  height: 90%; /* Occupies 90% of the viewport height */
-  max-width: 1600px; /* Optional: Prevents excessive width on very large screens */
-  max-height: 900px; /* Ensures proper scaling for the viewport height */
+  background: rgba(0, 0, 0, 0.7); /* Dark semi-transparent background */
+  padding: 15px 20px; /* Larger padding for button-like feel */
   border: none;
-  aspect-ratio: 16 / 9; /* Maintains the aspect ratio */
-}
-
-
-/* Navigation Arrow Buttons */
-.lightbox-prev,
-.lightbox-next {
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  font-size: 3rem; /* Larger arrow size */
-  color: white;
-  text-decoration: none;
-  background: rgba(0, 0, 0, 0.5);
-  padding: 10px 20px;
-  border-radius: 50%;
+  border-radius: 50%; /* Circular button */
   cursor: pointer;
   z-index: 1001;
   display: flex;
-  align-items: center;
   justify-content: center;
+  align-items: center;
+  width: 60px; /* Fixed size for better tap target */
+  height: 60px;
+  transition: background 0.3s ease, transform 0.2s ease;
 }
 
+/* Positioning */
 .lightbox-prev {
-  left: 15px;
+  top: 50%;
+  left: 20px; /* Space from the edge */
+  transform: translateY(-50%);
 }
 
 .lightbox-next {
-  right: 15px;
+  top: 50%;
+  right: 20px;
+  transform: translateY(-50%);
 }
 
+.lightbox-close {
+  top: 20px; /* Space from the top */
+  right: 20px; /* Space from the right */
+}
+
+/* Hover and Active Effects */
 .lightbox-prev:hover,
-.lightbox-next:hover {
-  background: rgba(0, 0, 0, 0.8);
+.lightbox-next:hover,
+.lightbox-close:hover {
+  background: rgba(255, 255, 255, 0.9); /* Brighter hover effect */
+  color: black; /* Contrast text color */
+  transform: scale(1.1); /* Slightly enlarge on hover */
 }
 
+.lightbox-prev:active,
+.lightbox-next:active,
+.lightbox-close:active {
+  transform: scale(0.95); /* Pressed effect */
+}
+
+/* Accessibility: Focused State */
 .lightbox-prev:focus,
-.lightbox-next:focus {
-  outline: 2px solid white; /* Accessibility focus */
+.lightbox-next:focus,
+.lightbox-close:focus {
+  outline: 3px solid white;
 }
