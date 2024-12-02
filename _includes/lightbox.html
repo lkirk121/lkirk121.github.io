@@ -21,6 +21,16 @@
           <iframe src="{{ media.url }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         {% endif %}
         <p>{{ media.caption }}</p>
+
+        <!-- Navigation Links -->
+        {% if forloop.first == false %}
+          <a href="#lightbox-{{ include.id }}-{{ forloop.index0 }}" class="lightbox-prev">❮ Previous</a>
+        {% endif %}
+        {% if forloop.last == false %}
+          <a href="#lightbox-{{ include.id }}-{{ forloop.index | plus: 1 }}" class="lightbox-next">Next ❯</a>
+        {% endif %}
+
+        <!-- Close Button -->
         <a href="#close-{{ include.id }}" class="lightbox-close">&times;</a>
       </div>
     </div>
