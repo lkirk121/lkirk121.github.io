@@ -1,61 +1,63 @@
-/* General Button Styles */
+/* Lightbox Navigation Links */
 .lightbox-prev,
-.lightbox-next,
-.lightbox-close {
+.lightbox-next {
   position: absolute;
-  font-size: 2rem; /* Larger font size */
+  font-size: 1.5rem; /* Font size for navigation */
   color: white;
   text-decoration: none;
-  background: rgba(0, 0, 0, 0.7); /* Dark semi-transparent background */
-  padding: 15px 20px; /* Larger padding for button-like feel */
-  border: none;
-  border-radius: 50%; /* Circular button */
+  background: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+  padding: 10px 15px; /* Padding for the text */
+  border-radius: 5px;
   cursor: pointer;
   z-index: 1001;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 60px; /* Fixed size for better tap target */
-  height: 60px;
   transition: background 0.3s ease, transform 0.2s ease;
 }
 
-/* Positioning */
 .lightbox-prev {
-  top: 50%;
-  left: 20px; /* Space from the edge */
-  transform: translateY(-50%);
+  bottom: 20px; /* Position from the bottom */
+  left: 20px; /* Position from the left */
 }
 
 .lightbox-next {
-  top: 50%;
-  right: 20px;
-  transform: translateY(-50%);
-}
-
-.lightbox-close {
-  top: 20px; /* Space from the top */
-  right: 20px; /* Space from the right */
+  bottom: 20px; /* Position from the bottom */
+  right: 20px; /* Position from the right */
 }
 
 /* Hover and Active Effects */
 .lightbox-prev:hover,
-.lightbox-next:hover,
-.lightbox-close:hover {
-  background: rgba(255, 255, 255, 0.9); /* Brighter hover effect */
-  color: black; /* Contrast text color */
-  transform: scale(1.1); /* Slightly enlarge on hover */
+.lightbox-next:hover {
+  background: rgba(255, 255, 255, 0.7); /* Brighter hover effect */
+  color: black; /* Change text color to black */
+  transform: scale(1.05); /* Slightly enlarge on hover */
 }
 
 .lightbox-prev:active,
-.lightbox-next:active,
-.lightbox-close:active {
+.lightbox-next:active {
   transform: scale(0.95); /* Pressed effect */
 }
 
-/* Accessibility: Focused State */
-.lightbox-prev:focus,
-.lightbox-next:focus,
-.lightbox-close:focus {
-  outline: 3px solid white;
+/* Close Button Styling */
+.lightbox-close {
+  position: absolute;
+  top: 20px; /* Space from the top */
+  right: 20px; /* Space from the right */
+  font-size: 2rem;
+  color: white;
+  text-decoration: none;
+  background: rgba(0, 0, 0, 0.7);
+  padding: 10px 15px;
+  border-radius: 50%;
+  cursor: pointer;
+  z-index: 1001;
+  transition: background 0.3s ease, transform 0.2s ease;
+}
+
+.lightbox-close:hover {
+  background: rgba(255, 255, 255, 0.9); /* Brighter close button on hover */
+  color: black;
+  transform: scale(1.1);
+}
+
+.lightbox-close:active {
+  transform: scale(0.95);
 }
