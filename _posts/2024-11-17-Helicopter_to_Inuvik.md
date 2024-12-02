@@ -1,10 +1,14 @@
 ## Week Nine: Helicopter to Inuvik
 
+<link rel="stylesheet" href="/assets/css/lightbox.css">
+
 A couple weeks ago we had a teacher conference in Inuvik, NWT. We had to travel across the not-yet-frozen Mackenzie River to get there from Tsiigehtchic. The solution? A helicopter!
 
 A few of our staff have already flown to and from Inuvik in the previous weeks. Our new 4-6 teacher flew in by helicopter at the start of November (talk about an entrance!), and one of our other staff members has been in-and-out for medical appointments in some of the larger medical centres outside of Tsiigehtchic. Thankfully all went well, and all our staff were ready on November 12th for our flight.
 
 Out at the edge of town there's a place called the "flats", that's where the ferry lands during the summer, and where the helicopters land during the winter. We got a drive down to the flats, and watched at the first helicopter came in. 
+
+{% include lightbox.html id="gallery1" media=site.data.gallery1.images %}
 
 One of the new staff members and myself got out of the car to see if we could spot it flying in. Long before it came into view we could hear a distant "wum-wum-wum-wum" from over the horizon. Moments later we spotted a small dark speck in the sky, and heard the engine of what sounded like a giant gas-powered mosquito. The noise grew louder, and the speck came closer, until we could make out the propelor blades and helicopter frame descending over the far shoreline. 
 
