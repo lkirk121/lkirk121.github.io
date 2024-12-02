@@ -1,38 +1,31 @@
-<div class="gallery">
-  {% for media in include.media %}
-    <div class="gallery-item">
-      <a href="#lightbox-{{ include.id }}-{{ forloop.index }}">
-        {% if media.type == "image" %}
-          <img src="{{ media.url }}" alt="Thumbnail for {{ media.caption }}">
-        {% elsif media.type == "video" %}
-          <div class="video-thumbnail">
-            <img src="https://img.youtube.com/vi/{{ media.url | split: '/' | last }}/hqdefault.jpg" alt="Video thumbnail">
-            <span class="video-icon">▶</span>
-          </div>
+<div class="lightbox" id="{{ include.id }}">
+  <div class="lightbox-content">
+    <div class="lightbox-media-container">
+      {% for item in include.media %}
+      <div class="lightbox-slide" id="{{ include.id }}-{{ forloop.index0 }}">
+        {% if item.type == "image" %}
+        <img src="{{ item.src }}" alt="{{ item.caption | escape }}" />
+        <div class="caption">{{ item.caption }}</div>
+        {% elsif item.type == "youtube" %}
+        <div class="youtube-video">
+          <iframe
+            src="https://www.youtube.com/embed/{{ item.src }}"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+          ></iframe>
+        </div>
+        <div class="caption">{{ item.caption }}</div>
         {% endif %}
-      </a>
-    </div>
-    
-    <div id="lightbox-{{ include.id }}-{{ forloop.index }}" class="lightbox">
-      <div class="lightbox-content">
-        {% if media.type == "image" %}
-          <img src="{{ media.url }}" alt="{{ media.caption }}">
-        {% elsif media.type == "video" %}
-          <iframe src="{{ media.url }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        {% endif %}
-        <p>{{ media.caption }}</p>
-
-        <!-- Navigation Links -->
-        {% if forloop.first == false %}
-          <a href="#lightbox-{{ include.id }}-{{ forloop.index0 }}" class="lightbox-prev">❮ Previous</a>
-        {% endif %}
-        {% if forloop.last == false %}
-          <a href="#lightbox-{{ include.id }}-{{ forloop.index | plus: 1 }}" class="lightbox-next">Next ❯</a>
-        {% endif %}
-
-        <!-- Close Button -->
-        <a href="#close-{{ include.id }}" class="lightbox-close">&times;</a>
+        <button class="prev-button" onclick="window.location.hash='#{{ include.id }}-{% if forloop.first %}{{ include.media | size | minus: 1 }}{% else %}{{ forloop.index0 | minus: 1 }}{% endif %}'">
+          &lt;
+        </button>
+        <button class="next-button" onclick="window.location.hash='#{{ include.id }}-{% if forloop.last %}0{% else %}{{ forloop.index0 | plus: 1 }}{% endif %}'">
+          &gt;
+        </button>
       </div>
+      {% endfor %}
     </div>
-  {% endfor %}
+    <a href="#!" class="close-button">&times;</a>
+  </div>
 </div>
