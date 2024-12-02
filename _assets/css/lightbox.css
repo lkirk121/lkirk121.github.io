@@ -28,13 +28,28 @@
 }
 
 /* Lightbox Video Styling */
-.lightbox iframe {
-  width: 85%;
-  max-width: 1200px; /* Optional: limit max width for very large screens */
+.lightbox-content {
+  max-width: 90%;
+  max-height: 90%;
+  width: auto;
   height: auto;
-  aspect-ratio: 16 / 9; /* Ensures proper aspect ratio for YouTube videos */
-  border: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgba(0, 0, 0, 0.9);
+  border-radius: 10px;
+  overflow: hidden;
 }
+
+.lightbox iframe {
+  width: 90%; /* Occupies 90% of the viewport width */
+  height: 90%; /* Occupies 90% of the viewport height */
+  max-width: 1600px; /* Optional: Prevents excessive width on very large screens */
+  max-height: 900px; /* Ensures proper scaling for the viewport height */
+  border: none;
+  aspect-ratio: 16 / 9; /* Maintains the aspect ratio */
+}
+
 
 /* Navigation Arrow Buttons */
 .lightbox-prev,
