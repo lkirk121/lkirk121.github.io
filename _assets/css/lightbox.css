@@ -26,3 +26,13 @@
 .lightbox-next:hover {
   background: rgba(0, 0, 0, 0.8);
 }
+
+/* Lightbox Video Styling */
+.lightbox iframe {
+  width: 85%;
+  max-width: 1200px; /* Optional: limit max width for very large screens */
+  height: auto;
+  aspect-ratio: 16 / 9; /* Ensures proper aspect ratio for YouTube videos */
+  border: none;
+}
+
