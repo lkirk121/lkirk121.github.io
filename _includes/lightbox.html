@@ -1,19 +1,4 @@
-<div class="gallery">
-  {% for media in include.media %}
-    <div class="gallery-item">
-      <a href="#lightbox-{{ include.id }}-{{ forloop.index }}">
-        {% if media.type == "image" %}
-          <img src="{{ media.url }}" alt="Thumbnail for {{ media.caption }}">
-        {% elsif media.type == "video" %}
-          <div class="video-thumbnail">
-            <img src="https://img.youtube.com/vi/{{ media.url | split: '/' | last }}/hqdefault.jpg" alt="Video thumbnail">
-            <span class="video-icon">▶</span>
-          </div>
-        {% endif %}
-      </a>
-    </div>
-    
-    <div id="lightbox-{{ include.id }}-{{ forloop.index }}" class="lightbox">
+<div id="lightbox-{{ include.id }}-{{ forloop.index }}" class="lightbox">
   <div class="lightbox-content">
     {% if media.type == "image" %}
       <img src="{{ media.url }}" alt="{{ media.caption }}">
@@ -28,16 +13,13 @@
 
     <!-- Navigation Links -->
     {% if forloop.first == false %}
-      <a href="#lightbox-{{ include.id }}-{{ forloop.index0 }}" class="lightbox-prev" aria-label="Previous">&#10094;</a>
+      <a href="#lightbox-{{ include.id }}-{{ forloop.index0 }}" class="lightbox-prev" aria-label="Previous">&lt; Previous</a>
     {% endif %}
     {% if forloop.last == false %}
-      <a href="#lightbox-{{ include.id }}-{{ forloop.index | plus: 1 }}" class="lightbox-next" aria-label="Next">&#10095;</a>
+      <a href="#lightbox-{{ include.id }}-{{ forloop.index | plus: 1 }}" class="lightbox-next" aria-label="Next">Next &gt;</a>
     {% endif %}
 
     <!-- Close Button -->
     <a href="#close-{{ include.id }}" class="lightbox-close" aria-label="Close">&times;</a>
   </div>
-</div>
-
-  {% endfor %}
 </div>
