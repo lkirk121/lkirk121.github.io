@@ -1,63 +1,28 @@
-/* Lightbox Navigation Links */
+/* Navigation Buttons */
 .lightbox-prev,
 .lightbox-next {
   position: absolute;
-  font-size: 1.5rem; /* Font size for navigation */
+  top: 50%;
+  transform: translateY(-50%);
   color: white;
+  font-size: 2rem;
   text-decoration: none;
-  background: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
-  padding: 10px 15px; /* Padding for the text */
+  background: rgba(0, 0, 0, 0.5);
+  padding: 10px 20px;
   border-radius: 5px;
   cursor: pointer;
   z-index: 1001;
-  transition: background 0.3s ease, transform 0.2s ease;
 }
 
 .lightbox-prev {
-  bottom: 20px; /* Position from the bottom */
-  left: 20px; /* Position from the left */
+  left: 10px;
 }
 
 .lightbox-next {
-  bottom: 20px; /* Position from the bottom */
-  right: 20px; /* Position from the right */
+  right: 10px;
 }
 
-/* Hover and Active Effects */
 .lightbox-prev:hover,
 .lightbox-next:hover {
-  background: rgba(255, 255, 255, 0.7); /* Brighter hover effect */
-  color: black; /* Change text color to black */
-  transform: scale(1.05); /* Slightly enlarge on hover */
-}
-
-.lightbox-prev:active,
-.lightbox-next:active {
-  transform: scale(0.95); /* Pressed effect */
-}
-
-/* Close Button Styling */
-.lightbox-close {
-  position: absolute;
-  top: 20px; /* Space from the top */
-  right: 20px; /* Space from the right */
-  font-size: 2rem;
-  color: white;
-  text-decoration: none;
-  background: rgba(0, 0, 0, 0.7);
-  padding: 10px 15px;
-  border-radius: 50%;
-  cursor: pointer;
-  z-index: 1001;
-  transition: background 0.3s ease, transform 0.2s ease;
-}
-
-.lightbox-close:hover {
-  background: rgba(255, 255, 255, 0.9); /* Brighter close button on hover */
-  color: black;
-  transform: scale(1.1);
-}
-
-.lightbox-close:active {
-  transform: scale(0.95);
+  background: rgba(0, 0, 0, 0.8);
 }
