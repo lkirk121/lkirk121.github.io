@@ -8,7 +8,7 @@ A few of our staff have already flown to and from Inuvik in the previous weeks. 
 
 Out at the edge of town there's a place called the "flats", that's where the ferry lands during the summer, and where the helicopters land during the winter. We got a drive down to the flats, and watched at the first helicopter came in. 
 
-{% include lightbox.html id="gallery1" media=site.data.gallery1.images %}
+{% include lightbox.html id="helicopter-takeoff" media=site.data.helicopter-takeoff.images %}
 
 One of the new staff members and myself got out of the car to see if we could spot it flying in. Long before it came into view we could hear a distant "wum-wum-wum-wum" from over the horizon. Moments later we spotted a small dark speck in the sky, and heard the engine of what sounded like a giant gas-powered mosquito. The noise grew louder, and the speck came closer, until we could make out the propelor blades and helicopter frame descending over the far shoreline. 
 
