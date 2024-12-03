@@ -1,91 +1,73 @@
+/* General Lightbox Styling */
 .lightbox {
   display: none;
   position: fixed;
-  top: 0;
+  z-index: 1000;
   left: 0;
+  top: 0;
   width: 100%;
   height: 100%;
-  background: rgba(0, 0, 0, 0.8);
-  z-index: 999;
-  overflow: hidden;
+  background-color: rgba(0, 0, 0, 0.8);
+}
 
-  &:target {
-    display: block;
-  }
+.lightbox:target {
+  display: block;
+}
 
-  .lightbox-content {
-    position: relative;
-    margin: auto;
-    top: 50%;
-    transform: translateY(-50%);
-    width: 90%;
-    max-width: 800px;
-    text-align: center;
+.lightbox div {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 90%;
+  max-width: 800px;
+}
 
-    .lightbox-media-container {
-      position: relative;
-    }
+.lightbox img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
 
-    .lightbox-slide {
-      display: none;
-    }
+.lightbox .close {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  color: #fff;
+  font-size: 2rem;
+  text-decoration: none;
+}
 
-    &:target .lightbox-slide {
-      display: block;
-    }
+.lightbox .next,
+.lightbox .prev {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 2rem;
+  color: #fff;
+  text-decoration: none;
+}
 
-    img {
-      max-width: 100%;
-      height: auto;
-      display: block;
-      margin: auto;
-    }
+.lightbox .next {
+  right: 10px;
+}
 
-    .youtube-video iframe {
-      width: 100%;
-      height: auto;
-      max-width: 560px;
-      max-height: 315px;
-      margin: auto;
-    }
+.lightbox .prev {
+  left: 10px;
+}
 
-    .caption {
-      margin-top: 10px;
-      color: #fff;
-      font-size: 14px;
-      text-align: center;
-    }
+/* Gallery Styling */
+.lightbox-gallery {
+  display: flex;
+  gap: 10px;
+}
 
-    .prev-button,
-    .next-button {
-      position: absolute;
-      top: 50%;
-      transform: translateY(-50%);
-      background: rgba(0, 0, 0, 0.5);
-      color: #fff;
-      border: none;
-      padding: 10px;
-      cursor: pointer;
-      font-size: 18px;
-    }
+.lightbox-gallery img {
+  max-width: 100px;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
 
-    .prev-button {
-      left: 10px;
-    }
-
-    .next-button {
-      right: 10px;
-    }
-
-    .close-button {
-      position: absolute;
-      top: 10px;
-      right: 10px;
-      color: #fff;
-      font-size: 24px;
-      text-decoration: none;
-      background: none;
-      border: none;
-    }
-  }
+.lightbox-gallery img:hover {
+  transform: scale(1.1);
 }
