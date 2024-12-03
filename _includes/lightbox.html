@@ -7,6 +7,9 @@
     </div>
     
     <div id="lightbox-{{ include.id }}-{{ forloop.index }}" class="lightbox">
+      <!-- Close lightbox when clicking outside of the content -->
+      <a href="#close-{{ include.id }}" class="lightbox-overlay"></a>
+
       <div class="lightbox-content">
         <img src="{{ image.url }}" alt="{{ image.caption }}">
         <p>{{ image.caption }}</p>
@@ -15,3 +18,4 @@
     </div>
   {% endfor %}
 </div>
+
