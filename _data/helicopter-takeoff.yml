@@ -11,14 +11,3 @@ images:
     type: "image"
     caption: "Up in the air"
 
-  - url: "https://via.placeholder.com/800x600.png?text=Gallery+1+Image+2"
-    type: "image"
-    caption: "Caption for Gallery 1 Image 2"
-
-  - url: "https://via.placeholder.com/800x600.png?text=Gallery+1+Image+2"
-    type: "image"
-    caption: "Caption for Gallery 1 Image 2"
-
-  - url: "https://via.placeholder.com/800x600.png?text=Gallery+1+Image+2"
-    type: "image"
-    caption: "Caption for Gallery 1 Image 2"
