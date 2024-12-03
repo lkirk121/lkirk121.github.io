@@ -1,27 +1,17 @@
-<div class="lightbox-gallery">
-  {% assign gallery_data = site.data[include.yml] %}
-  {% for image in gallery_data.images %}
-    <a href="#{{ include.yml }}-img{{ forloop.index }}">
-      <img src="{{ image.src }}" alt="{{ image.alt }}">
-    </a>
+<div class="gallery">
+  {% for image in include.images %}
+    <div class="gallery-item">
+      <a href="#lightbox-{{ include.id }}-{{ forloop.index }}">
+        <img src="{{ image.url }}" alt="Thumbnail for {{ image.caption }}">
+      </a>
+    </div>
+    
+    <div id="lightbox-{{ include.id }}-{{ forloop.index }}" class="lightbox">
+      <div class="lightbox-content">
+        <img src="{{ image.url }}" alt="{{ image.caption }}">
+        <p>{{ image.caption }}</p>
+        <a href="#close-{{ include.id }}" class="lightbox-close">&times;</a>
+      </div>
+    </div>
   {% endfor %}
 </div>
-
-{% for image in gallery_data.images %}
-<div id="{{ include.yml }}-img{{ forloop.index }}" class="lightbox">
-  <div>
-    <a href="#!" class="close">&times;</a>
-    {% if forloop.last %}
-      <a href="#{{ include.yml }}-img1" class="next">&#10095;</a>
-    {% else %}
-      <a href="#{{ include.yml }}-img{{ forloop.index | plus: 1 }}" class="next">&#10095;</a>
-    {% endif %}
-    {% if forloop.first %}
-      <a href="#{{ include.yml }}-img{{ forloop.length }}" class="prev">&#10094;</a>
-    {% else %}
-      <a href="#{{ include.yml }}-img{{ forloop.index | minus: 1 }}" class="prev">&#10094;</a>
-    {% endif %}
-    <img src="{{ image.src }}" alt="{{ image.alt }}">
-  </div>
-</div>
-{% endfor %}
