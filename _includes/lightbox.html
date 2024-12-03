@@ -1,13 +1,13 @@
 <div class="lightbox-gallery">
   <div class="gallery">
-    {% for image in site.data.gallery-images %}
+    {% for image in site._data.gallery-images %}
       <a href="#image-{{ forloop.index }}" class="gallery-item">
         <img src="{{ image.thumbnail }}" alt="{{ image.caption }}" />
       </a>
     {% endfor %}
   </div>
 
-  {% for image in site.data.gallery-images %}
+  {% for image in site._data.gallery-images %}
     <div class="lightbox" id="image-{{ forloop.index }}">
       <div class="lightbox-content">
         <a href="#" class="lightbox-close">&times;</a>
