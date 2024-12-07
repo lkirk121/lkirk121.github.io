@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1><a href="{{ '/' | relative_url }}">My Jekyll Blog</a></h1>
+    </header>
+
+    <div class="content-wrapper">
+      <aside class="sidebar">
+        <h2>Blog Posts</h2>
+        <ul>
+          {% for post in site.posts %}
+            <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </aside>
+
+      <main class="content">
+        {{ content }}
+      </main>
+    </div>
+
+    <footer>
+      <p>&copy; {{ site.time | date: '%Y' }} My Jekyll Blog</p>
+    </footer>
+  </div>
+</body>
+</html>
