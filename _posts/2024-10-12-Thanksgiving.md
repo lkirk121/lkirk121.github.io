@@ -1,4 +1,7 @@
-## Week 5: Thanksgiving
+---
+layout: post
+title: "Thanksgiving"
+---
 
 Time goes quickly! I can hardly believe its already Thanksgiving weekend. 
 
