@@ -58,12 +58,14 @@ img {
     img {
         max-width: 100%; /* Images take up full screen width */
     }
+
 iframe {
-        max-width: 75%; /* Images take up 75% of the available screen width */
+    max-width: 75%; /* Images take up 75% of the available screen width */
     width: 100%; /* Ensure proper scaling within containers */
     height: auto; /* Maintain aspect ratio */
     display: block; /* Centering compatibility */
     margin: 1rem auto; /* Center the image and add spacing */
+    align: center; 
 }
 
 /* Responsive Design: Full-Width Images on Smaller Screens */
