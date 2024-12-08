@@ -1,6 +1,7 @@
-## Toronto to Tsiigehtchic (Part 2): Halifax!?
-
-August 31, 2024
+---
+layout: post
+title: "Missed the Flight"
+---
 
 The entire relocation to Tsiigetchic was paid for by the Government of Northwest Territories Relocation Assistance. They paid for my flight, meals, and for six pieces of excess baggage (weighing up to 70lbs each). I packed all seven bags carefully the night before, and piled them even more carefully on the airport dolly when I arrived at Pearson the next morning
 
