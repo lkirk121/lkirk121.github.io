@@ -44,50 +44,20 @@ footer nav {
     margin-top: 2rem;
 }
 
-/* General Image Styling for Markdown Images */
+/* General Image Styling */
 .post-content img {
-    max-width: 50%; /* Display images at 50% of available screen space */
-    display: block;
-    margin: 1rem auto;
-    cursor: pointer;
+    max-width: 50%; /* Images take up 50% of the available screen width */
+    width: 100%; /* Ensure proper scaling within containers */
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* Centering compatibility */
+    margin: 1rem auto; /* Center the image and add spacing */
 }
 
-/* Lightbox Overlay */
-.lightbox-overlay {
-    display: none; /* Hidden by default */
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(0, 0, 0, 0.8); /* Semi-transparent dark background */
-    align-items: center;
-    justify-content: center;
-    z-index: 1000;
+/* Responsive Design: 90%-Width Images on Smaller Screens */
+@media (max-width: 768px) {
+    .post-content img {
+        max-width: 90%; /* Images take up 90% screen width */
+    }
 }
 
-/* Lightbox Image */
-.lightbox-overlay img {
-    max-width: 90%; /* Scale image to 90% of the screen size */
-    max-height: 90%;
-}
-
-/* Target the Overlay When Image is Focused */
-.post-content img:focus {
-    outline: none; /* Remove focus outline */
-}
-
-.post-content img:focus::after {
-    content: '';
-    position: fixed;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background-color: rgba(0, 0, 0, 0.8); /* Overlay effect */
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    z-index: 1000;
-}
 
