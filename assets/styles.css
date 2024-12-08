@@ -44,13 +44,5 @@ footer nav {
     margin-top: 2rem;
 }
 
-/* General Image Styling */
-.post-content img {
-    max-width: 50%; /* Images take up 50% of the available screen width */
-    width: 100%; /* Ensure proper scaling within containers */
-    height: auto; /* Maintain aspect ratio */
-    display: block; /* Centering compatibility */
-    margin: 1rem auto; /* Center the image and add spacing */
-}
 
 
