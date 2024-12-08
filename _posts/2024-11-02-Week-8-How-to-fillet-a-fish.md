@@ -1,4 +1,7 @@
-## Week 8: How to Fillet a Fish
+---
+layout: post
+title: "How to Fillet a Fish"
+---
 
 This afternoon, around 2pm, I was getting ready to go out for an afternoon ski. I'd just got out the door, and put on my skiis, when one of the communty elders pulled up in front of the teacher apartment. He rolled down his window. 
 
