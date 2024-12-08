@@ -46,7 +46,7 @@ footer nav {
 
 /* General Image Styling */
 img {
-    max-width: 50%; /* Images take up 50% of the available screen width */
+    max-width: 75%; /* Images take up 75% of the available screen width */
     width: 100%; /* Ensure proper scaling within containers */
     height: auto; /* Maintain aspect ratio */
     display: block; /* Centering compatibility */
