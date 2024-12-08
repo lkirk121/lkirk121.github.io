@@ -1,4 +1,7 @@
-## Isolation
+---
+layout: post
+title: "Isolation"
+---
 
 Over the past week the community of Tsiigehtchic officially went into Isolation. This happens twice per year: once in fall, and once in spring. Once ice starts forming on the Mackenzie River, the ferry can't cross anymore, and the ice is too week to support cars and snowmobiles. We have to wait for the ice to become thick enough that it can be turned into an ice road. Once that happens, we'll be reconnected by an ice bridge to the Dempster Highway. 
 
