@@ -1,4 +1,7 @@
-## Week Two: School’s already begun!
+---
+layout: post
+title: "First Weeks of School"
+---
 
 It’s been a couple of weeks in Tsiigehtchic so far. The last two weeks have been overwhelming. When we arrived at school, there was no working internet. Not so easy when a technician is a day’s drive away, and most of the school information (for example, what courses we are running this year) is stored in the “cloud”. For the first week, then, all we could do was prepare our classroom.⁠
 
