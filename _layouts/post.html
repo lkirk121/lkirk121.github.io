@@ -1,22 +1,28 @@
 r<!DOCTYPE html>
 <html lang="en">
+  <style>
+        head {
+            text-align: center;
+        }
+    </style>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    # <title>{{ page.title }} | {{ site.title }}</title>
+    <title>{{ page.title }} | {{ site.title }}</title>
     <link rel="stylesheet" href="/assets/styles.css">
 </head>
 <body>
-    <style>
-        header {
-            text-align: center;
-        }
-        article {
-            text-align: justified
-        }
-    </style>
     <header>
-        <a href="/">&#8592; Home</a>
+        <nav>
+            {% if page.previous %}
+                 <a href="{{ page.previous.url }}">&#8592; Previous</a>
+            {% endif %}
+            <a href="/">Home</a>
+            {% if page.next %}
+                <a href="{{ page.next.url }}">Next &#8594;</a>
+            {% endif %}
+            
+        </nav>
     </header>
     <main>
         <h2>{{ page.title }}</h2>
