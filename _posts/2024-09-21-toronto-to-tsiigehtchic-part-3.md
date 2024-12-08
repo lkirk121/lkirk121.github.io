@@ -1,3 +1,9 @@
+---
+layout: post
+title: Toronto to Tsiigehtchic Part 3
+date: 2024-09-21
+---
+
 ## Toronto to Tsiigehtchic (Part 3): Edmonton to Inuvik
 
 ### Edmonton to Yellowknife
