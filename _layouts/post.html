@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
-  <style>
-        head {
-            text-align: center;
-        }
-    </style>
+<style>
+  .center {
+    text-align: center;
+  }
+</style>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
+    <title>{{ page.title }} | {{ site.title }}</title>
     <link rel="stylesheet" href="/assets/styles.css">
 </head>
 <body>
@@ -25,8 +25,10 @@
         </nav>
     </header>
     <main>
+      <div class=center>
         <h2>{{ page.title }}</h2>
         <small>{{ page.date | date: "%B %d, %Y" }}</small>
+      </div>
         <article>
           <div class="post-content">
             {{ content }}
