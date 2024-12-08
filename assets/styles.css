@@ -53,11 +53,4 @@ footer nav {
     margin: 1rem auto; /* Center the image and add spacing */
 }
 
-/* Responsive Design: 90%-Width Images on Smaller Screens */
-@media (max-width: 768px) {
-    .post-content img {
-        max-width: 90%; /* Images take up 90% screen width */
-    }
-}
-
 
