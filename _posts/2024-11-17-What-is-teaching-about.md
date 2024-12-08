@@ -1,4 +1,7 @@
-## Teach us to do better in life
+---
+layout: post
+title "What Teaching is About"
+---
 
 Today's class did not go well. We're doing a unit, in English, on advertisements, learning about forms of rhetoric and advertising techniques. There's an assignment asking students to pick 3 advertisements, then describe them, unpack their meaning, and explain the persuasive techniques the advertiser is using. The class didn't enjoy it. Half-way through class, almost every student became disengaged. Most were silent. Some were outwardly frustrated. A few argued back at me while I tried to explain the lesson.
 
