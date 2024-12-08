@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Toronto to Tsiigehtchic Part 3
-date: 2024-09-21
+title: Flying to Inuvik
+date: 2024-09-02
 ---
 
 ## Toronto to Tsiigehtchic (Part 3): Edmonton to Inuvik
