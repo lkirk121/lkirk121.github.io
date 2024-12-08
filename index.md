@@ -1,5 +1,17 @@
-Here you can say lots of fun things about your site.
+---
+layout: default
+title: Home
+---
 
-Maybe say a some things about yourself.
+### Thoughts and reflections about teaching in the Canadian Arctic.
 
-Or maybe what you plan to blog about.
+Posts:
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a> 
+      <small>({{ post.date | date: "%B %d, %Y" }})</small>
+    </li>
+  {% endfor %}
+</ul>
