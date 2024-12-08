@@ -1,4 +1,7 @@
-## Week 4: How to Cook a Goose
+---
+layout: post
+title: "How to Cook a Goose"
+---
 
 Over the last week we held a number of events. Our students took part in a "shore set fishing" day (I'll explain what that is), we had an Orange Shirt Day walk on Thursday, and on Friday (yesterday) the staff had a "Cultural Orientation" PD Day. We learned how to clean, smoke, and catch a fish. How to clean and cook a goose. We spoke with two of the Elders from the community, about what they'd like to see in our school. Also, I've started a musical collaboration with the captain of the ferry *LV Cardinal* that carries cars travelling the Dempster Highway across the Mackenzie. All the while, our classes at school are up and running.
 
@@ -39,10 +42,31 @@ In some ways, I think teaching at the start of the year is like starting a rusty
 
 ### How to cook a goose?
 
+Our first "PD Day" was unlike any I'd been to before. We learned how to skin and clean a goose. We knew it was comming becuase a few days before, on of the Indigenous teachers brought in two frozen geese, and left it in the school hallway to defrost. It was just a tad unsettling to have two dead geese sitting in the hallway. 
+
+When our PD Day arrived, we took the geese out to The Camp Cabin behind our school (The Camp has a canvas tepee, firepit, and a small, rustic, cabin, with table and chairs, and a stove made from an oil drum). Our Indigenous language teacher, and one of the Classroom Assistants, showed us all how to skin the fethers off a goose. It basically involved slicing a knife up the centre of the chest, and then peeling back the skin with one hand, and carving it off using a kinfe in the other hand. In a way, it felt like skinning a fish. 
+
+When all was said and done, it looked almost identical to a store-bought chicken. I was given one to take home. Back at home, I tried cooking it into a soup. The meat was very dark, and very decicious. It tasked like extra-dark chicken. 
+
 ![soup](/assets/09-28/soup.jpeg)
+
+One of the remarkable parts of this experience, was it demystified the process that happens after you catch an animal. I still don't know how to hunt a goose, or any other animal for that matter, but it's something that can be learned. I don't know how to skin and clean anything other than a fish or a goose, but again, those things can be learned. 
+
+Part of a teacher's job is to show someone how to complete a task. Literally guide someone through a task (just like someone demonstrated, and helped guide my hand as I skinned the goose), and then provide an opportunity to complete the task with supervision (so someone can ask questions when they get stuck), and then provide opportunities for ongoing practice until someone feels that they can complete the task independently. Finally (and perhaps the ultimate goal) is that someone can start to learn on their own (ex. learn to skin a goose, and then use that knowledge to figure out how to skin a fox). 
+
+Of course, this requires motivation from whoever is learning. In my case, learning the skill itself was enough motivation to keep going. There was also goose soup as an additional motivation. In class I'm still trying to figure out what motivates students to learn about something that they don't value (or rather, don't value as much as gaming, or socializing, or making paper airplanes). What is motivation for learning, and how do you build it into an English class? 
 
 ### How to be a part of Truth and Reconciliation?
 
-![flag](/assets/09-28/flag.jpeg)
+This week was Truth and Reconciliation week. We walked with our students arout town. In recent years, Truth and Reconciation has taken on an almost sacred significance - akin to what Remembrance Day was like when I went to highschool. Now that I'm a teacher, responsible for getting students ready for these days of remembrance, I realize that much of what made a day like Remembrance Day significant was how it was taught to us, and how it was treated by our teachers. Most of these students live in the legacy of the Residential School system (in some cases, their parents or grandparents attended residential school). To anyone who'se questioned the "real" impact of residential schools, the impact is very real for families who have lived through it. 
 
 ![shirts](/assets/09-28/shirts.jpeg)
+
+Some families are deeply broken by the impact of Residential Schools. Children no longer live with their parents, rather, they live with a guardian or grandparent. Some children are affected in their ability to participate in school. Sometimes its from a difficult home life, sometimes its from effects of drugs and drinking. On the other hand, some families appear healthy and well supported. The spectrum varies. What seems universal, however, is hardly anyone speaks the Gwich'in language. The Residential School system was tragic in its effectiveness to erase culture by erasing language and traditional knowledge. There are very few fluent speakers of Gwich'in. Knowledge of the language is recorded in sayings and phrases. It is an entire language, unlike anything else in any part of the world (as far as I can tell). It seems unthinkable that a culture so rich in language and tradition could be erased by just a few generations of schooling. The power of education is undeniable. Education can be used for great good, and for great harm. Here in our students, especially the older ones, there are still harms from Residential Schools. 
+
+Honerable Justice Murry Sinclair, Chair of the Truth and Reconciliation Comission said "education got us in this mess, and education will get us out of it."
+
+Walking for Orange Shirt Day is one way we can express out committment to this principle. Its a way for our students to remember and learn about their past. 
+
+![flag](/assets/09-28/flag.jpeg)
+
