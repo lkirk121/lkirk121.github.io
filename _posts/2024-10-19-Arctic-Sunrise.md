@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 ## Arctic Sunrise
 
 While I was trying to get caught up on the last few weeks of writing, I looked out my window to a stunning 10am sunrise. A few minutes later, I had my parka, mitts, and boots on, and was walking my way down to the riverside to catch the sunrise. 
