@@ -1,4 +1,7 @@
-## Week Nine: Helicopter to Inuvik
+---
+layout: post
+title: "Helicopter to Inuvik"
+---
 
 A couple weeks ago we had a teacher conference in Inuvik, NWT. We had to travel across the not-yet-frozen Mackenzie River to get there from Tsiigehtchic. The solution? A helicopter!
 
