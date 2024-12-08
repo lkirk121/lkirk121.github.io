@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <link rel="stylesheet" href="/assets/styles.css">
+</head>
+<body>
+    <header>
+        <h1><a href="/">&#8592; Home</a></h1>
+    </header>
+    <main>
+        <h2>{{ page.title }}</h2>
+        <small>{{ page.date | date: "%B %d, %Y" }}</small>
+        <article>
+            {{ content }}
+        </article>
+    </main>
+    <footer>
+        <nav>
+            {% if page.previous %}
+                <a href="{{ page.previous.url }}">&#8592; Previous</a>
+            {% endif %}
+            {% if page.next %}
+                <a href="{{ page.next.url }}">Next &#8594;</a>
+            {% endif %}
+            <a href="/">Home</a>
+        </nav>
+    </footer>
+</body>
+</html>
