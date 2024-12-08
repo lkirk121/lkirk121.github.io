@@ -45,7 +45,7 @@ footer nav {
 }
 
 /* General Image Styling */
-.post-content img {
+img {
     max-width: 50%; /* Images take up 50% of the available screen width */
     width: 100%; /* Ensure proper scaling within containers */
     height: auto; /* Maintain aspect ratio */
@@ -55,7 +55,7 @@ footer nav {
 
 /* Responsive Design: Full-Width Images on Smaller Screens */
 @media (max-width: 768px) {
-    .post-content img {
+    img {
         max-width: 100%; /* Images take up full screen width */
     }
 }
