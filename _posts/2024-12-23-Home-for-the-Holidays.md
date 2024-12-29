@@ -20,9 +20,9 @@ While I was at Inuvik Airport, I was looking at a birds-eye view map of the town
 
 ![Inuvik](https://www.dropbox.com/scl/fi/fz6nyyi4d35gvfjo276kd/635799088846949044_Final.jpg?rlkey=abrhhkro78ylc1i98kj0x7ri4&st=l74e96ky&raw=1)
 
-“You see these nieghbourhoods?” he pointed to the area between Inuvik’s hospital, the town administrative buildings, and the downtown shops and restaurants. The streets and hoses looked typical of a southern Ontario suburb. 
+“You see these nieghbourhoods?” he pointed to the small south-western part of town, between Inuvik’s hospital and the town administrative buildings.  
 
-“That’s where all the people with administrative jobs live.” 
+“That’s where all the people with administrative jobs live.” The streets and hoses looked typical of a southern Ontario suburb.
 
 Then he pointed to another part of the city, that looked much less residential. 
 
