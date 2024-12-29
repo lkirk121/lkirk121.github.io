@@ -5,7 +5,7 @@ title: "How to Cook a Goose"
 
 Over the last week we held a number of events. Our students took part in a "shore set fishing" day (I'll explain what that is), we had an Orange Shirt Day walk on Thursday, and on Friday (yesterday) the staff had a "Cultural Orientation" PD Day. We learned how to clean, smoke, and catch a fish. How to clean and cook a goose. We spoke with two of the Elders from the community, about what they'd like to see in our school. Also, I've started a musical collaboration with the captain of the ferry *LV Cardinal* that carries cars travelling the Dempster Highway across the Mackenzie. All the while, our classes at school are up and running.
 
-![landscape](/assets/09-28/landscape.jpeg)
+![landscape](https://www.dropbox.com/scl/fi/u4ibdi5zk2tm2hqysjxwt/20240924_164753.jpg?rlkey=ctsljwjoee4nbbby7k5bfzoda&st=voifyh4c&raw=1)
 
 ### Teaching
 
@@ -42,13 +42,17 @@ In some ways, I think teaching at the start of the year is like starting a rusty
 
 ### How to cook a goose?
 
+![PDday](https://www.dropbox.com/scl/fi/ufngxlput7nk2s26jrsg9/20240927_103642.jpg?rlkey=shko1scqb3971yebthg4kpgdm&st=c5rd6nr3&raw=1)
+
 Our first "PD Day" was unlike any I'd been to before. We learned how to skin and clean a goose. We knew it was comming becuase a few days before, on of the Indigenous teachers brought in two frozen geese, and left it in the school hallway to defrost. It was just a tad unsettling to have two dead geese sitting in the hallway. 
+
+![goose](https://www.dropbox.com/scl/fi/3ve5vap39w4khke40woq0/20240927_091454.jpg?rlkey=2ly3kreo901lxbicvkavu1j0g&st=1k2enr94&raw=1)
 
 When our PD Day arrived, we took the geese out to The Camp Cabin behind our school (The Camp has a canvas tepee, firepit, and a small, rustic, cabin, with table and chairs, and a stove made from an oil drum). Our Indigenous language teacher, and one of the Classroom Assistants, showed us all how to skin the fethers off a goose. It basically involved slicing a knife up the centre of the chest, and then peeling back the skin with one hand, and carving it off using a kinfe in the other hand. In a way, it felt like skinning a fish. 
 
 When all was said and done, it looked almost identical to a store-bought chicken. I was given one to take home. Back at home, I tried cooking it into a soup. The meat was very dark, and very decicious. It tasked like extra-dark chicken. 
 
-![soup](/assets/09-28/soup.jpeg)
+![soup](https://www.dropbox.com/scl/fi/ndji786fi4j1389iihksc/20240927_194512.jpg?rlkey=kogfheooejwwhdcz2j46c74sm&st=5e8luikv&raw=1)
 
 One of the remarkable parts of this experience, was it demystified the process that happens after you catch an animal. I still don't know how to hunt a goose, or any other animal for that matter, but it's something that can be learned. I don't know how to skin and clean anything other than a fish or a goose, but again, those things can be learned. 
 
@@ -60,7 +64,7 @@ Of course, this requires motivation from whoever is learning. In my case, learni
 
 This week was Truth and Reconciliation week. We walked with our students arout town. In recent years, Truth and Reconciation has taken on an almost sacred significance - akin to what Remembrance Day was like when I went to highschool. Now that I'm a teacher, responsible for getting students ready for these days of remembrance, I realize that much of what made a day like Remembrance Day significant was how it was taught to us, and how it was treated by our teachers. Most of these students live in the legacy of the Residential School system (in some cases, their parents or grandparents attended residential school). To anyone who'se questioned the "real" impact of residential schools, the impact is very real for families who have lived through it. 
 
-![shirts](/assets/09-28/shirts.jpeg)
+![shirts](https://www.dropbox.com/scl/fi/42oodc4qrkdbb93dl126g/20240927_172222.jpg?rlkey=qn0mw1bro0n07eeha7q6m5ig6&st=wg0g50jk&raw=1)
 
 Some families are deeply broken by the impact of Residential Schools. Children no longer live with their parents, rather, they live with a guardian or grandparent. Some children are affected in their ability to participate in school. Sometimes its from a difficult home life, sometimes its from effects of drugs and drinking. On the other hand, some families appear healthy and well supported. The spectrum varies. What seems universal, however, is hardly anyone speaks the Gwich'in language. The Residential School system was tragic in its effectiveness to erase culture by erasing language and traditional knowledge. There are very few fluent speakers of Gwich'in. Knowledge of the language is recorded in sayings and phrases. It is an entire language, unlike anything else in any part of the world (as far as I can tell). It seems unthinkable that a culture so rich in language and tradition could be erased by just a few generations of schooling. The power of education is undeniable. Education can be used for great good, and for great harm. Here in our students, especially the older ones, there are still harms from Residential Schools. 
 
@@ -68,5 +72,5 @@ Honerable Justice Murry Sinclair, Chair of the Truth and Reconciliation Comissio
 
 Walking for Orange Shirt Day is one way we can express out committment to this principle. Its a way for our students to remember and learn about their past. 
 
-![flag](/assets/09-28/flag.jpeg)
+![flag](https://www.dropbox.com/scl/fi/dwi4a0zl67j5eyk0odgyj/20240926_144536.jpg?rlkey=9jmxr6m8gehmoimgm211a115e&st=2axk3bi9&raw=1)
 
