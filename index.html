@@ -9,17 +9,15 @@ Explore my latest posts below:
 
 <div class="post-list">
   {% for post in site.posts %}
-  <div class="post-item">
-    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-    <p class="post-date">{{ post.date | date: "%B %d, %Y" }}</p>
+  <a class="post-item" href="{{ post.url }}">
     <div class="post-content">
+      <h2>{{ post.title }}</h2>
+      <p class="post-date">{{ post.date | date: "%B %d, %Y" }}</p>
       <p class="post-excerpt">
         {{ post.content | strip_html | truncatewords: 35 }}...
       </p>
-      <a class="read-more-button" href="{{ post.url }}">Read More</a>
     </div>
-  </div>
-  
+  </a>
   {% endfor %}
 </div>
 
@@ -30,48 +28,33 @@ Explore my latest posts below:
     padding: 20px;
   }
   .post-item {
-    margin-bottom: 20px;
-  }
-  .post-item h2 a {
-    color: #333;
+    display: block;
     text-decoration: none;
+    color: inherit;
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 20px; /* Squircle shape */
+    transition: box-shadow 0.3s ease, transform 0.2s ease;
   }
-  .post-item h2 a:hover {
-    text-decoration: underline;
+  .post-item:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transform: translateY(-3px);
+    background-color: #f9f9f9;
   }
-  .post-date {
+  .post-content h2 {
+    margin: 0;
+    font-size: 1.5em;
+    color: #333;
+  }
+  .post-content .post-date {
     font-size: 0.9em;
     color: #777;
+    margin-top: 5px;
   }
-  .post-content {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap: 10px;
-  }
-  .post-excerpt {
+  .post-content .post-excerpt {
     font-size: 1em;
     color: #555;
-    margin: 0;
-    flex: 1;
-  }
-  .read-more-button {
-    display: inline-block;
-    padding: 10px 15px;
-    background-color: #007BFF;
-    color: #fff;
-    text-decoration: none;
-    border-radius: 5px;
-    white-space: nowrap;
-  }
-  .read-more-button:hover {
-    background-color: #0056b3;
-  }
-  hr {
-    border: none;
-    border-top: 1px solid #ddd;
-    margin: 20px 0;
+    margin-top: 10px;
   }
 </style>
-
-
