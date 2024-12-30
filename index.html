@@ -3,10 +3,6 @@ layout: default
 title: Home
 ---
 
-# Welcome to My Blog
-
-Explore my latest posts below:
-
 <div class="post-list">
   {% for post in site.posts %}
   <a class="post-item" href="{{ post.url }}">
@@ -28,10 +24,11 @@ Explore my latest posts below:
     padding: 20px;
   }
 
+  /* Make the <a> tag block-level and remove styles */
   .post-item {
     display: block;
-    text-decoration: none; /* Remove underline from the link */
-    color: inherit;
+    text-decoration: none; /* Ensure no underlining */
+    color: inherit; /* Inherit color for consistency */
     margin-bottom: 20px;
     padding: 20px;
     border: 1px solid #ddd;
@@ -39,18 +36,23 @@ Explore my latest posts below:
     transition: box-shadow 0.3s ease, transform 0.2s ease;
   }
 
+  /* Hover effect for the squircle */
   .post-item:hover {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     transform: translateY(-3px);
     background-color: #f9f9f9;
   }
 
-  .post-item:hover * {
-    text-decoration: none !important; /* Force no underline on child elements */
+  /* Remove default link styles from child content */
+  .post-content {
+    text-decoration: none; /* Ensure child elements don't get underlined */
+  }
+
+  .post-content h2, .post-content p {
+    margin: 0;
   }
 
   .post-content h2 {
-    margin: 0;
     font-size: 1.5em;
     color: #333;
   }
