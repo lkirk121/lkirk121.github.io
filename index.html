@@ -10,7 +10,7 @@ title: Home
       <h2>{{ post.title }}</h2>
       <p class="post-date">{{ post.date | date: "%B %d, %Y" }}</p>
       <p class="post-excerpt">
-        {{ post.content | strip_html | truncatewords: 30 }}
+        {{ post.content | strip_html | truncatewords: 35 }}...
       </p>
     </div>
   </a>
@@ -25,7 +25,7 @@ title: Home
   }
   .post-item {
     display: block;
-    text-decoration: none; /* Remove underline */
+    text-decoration: none; /* Remove underline from the entire clickable area */
     color: inherit;
     margin-bottom: 20px;
     padding: 20px;
@@ -38,23 +38,12 @@ title: Home
     transform: translateY(-3px);
     background-color: #f9f9f9;
   }
-  .post-item:hover h2, 
-  .post-item:hover p {
-    text-decoration: none; /* Ensure no underline on hover */
+  .post-item * {
+    text-decoration: none; /* Ensure no child elements have underlines */
   }
   .post-content h2 {
     margin: 0;
     font-size: 1.5em;
     color: #333;
   }
-  .post-content .post-date {
-    font-size: 0.9em;
-    color: #777;
-    margin-top: 5px;
-  }
-  .post-content .post-excerpt {
-    font-size: 1em;
-    color: #555;
-    margin-top: 10px;
-  }
-</style>
+  .post-content 
