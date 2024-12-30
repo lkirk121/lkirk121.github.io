@@ -3,6 +3,10 @@ layout: default
 title: Home
 ---
 
+# Welcome to My Blog
+
+Explore my latest posts below:
+
 <div class="post-list">
   {% for post in site.posts %}
   <a class="post-item" href="{{ post.url }}">
@@ -10,7 +14,7 @@ title: Home
       <h2>{{ post.title }}</h2>
       <p class="post-date">{{ post.date | date: "%B %d, %Y" }}</p>
       <p class="post-excerpt">
-        {{ post.content | strip_html | truncatewords: 35 }}...
+        {{ post.content | strip_html | truncatewords: 50 }}...
       </p>
     </div>
   </a>
@@ -23,9 +27,10 @@ title: Home
     margin: 0 auto;
     padding: 20px;
   }
+
   .post-item {
     display: block;
-    text-decoration: none; /* Remove underline from the entire clickable area */
+    text-decoration: none; /* Remove underline from the link */
     color: inherit;
     margin-bottom: 20px;
     padding: 20px;
@@ -33,17 +38,32 @@ title: Home
     border-radius: 20px; /* Squircle shape */
     transition: box-shadow 0.3s ease, transform 0.2s ease;
   }
+
   .post-item:hover {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     transform: translateY(-3px);
     background-color: #f9f9f9;
   }
-  .post-item * {
-    text-decoration: none; /* Ensure no child elements have underlines */
+
+  .post-item:hover * {
+    text-decoration: none !important; /* Force no underline on child elements */
   }
+
   .post-content h2 {
     margin: 0;
     font-size: 1.5em;
     color: #333;
   }
-  .post-content 
+
+  .post-content .post-date {
+    font-size: 0.9em;
+    color: #777;
+    margin-top: 5px;
+  }
+
+  .post-content .post-excerpt {
+    font-size: 1em;
+    color: #555;
+    margin-top: 10px;
+  }
+</style>
