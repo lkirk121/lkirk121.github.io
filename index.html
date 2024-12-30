@@ -3,17 +3,15 @@ layout: default
 title: Home
 ---
 
-# Toronto to Tsiigehtchic
-
-Recent posts:
+<h2> Recent posts </h2>
 
 <div class="post-list">
   {% for post in site.posts %}
   <div class="post-item">
-    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
     <p class="post-date">{{ post.date | date: "%B %d, %Y" }}</p>
     <p class="post-excerpt">
-      {{ post.content | strip_html | truncatewords: 50 }}...
+      {{ post.content | strip_html | truncatewords: 30 }}...
     </p>
     <a class="read-more-button" href="{{ post.url }}">Read More</a>
   </div>
