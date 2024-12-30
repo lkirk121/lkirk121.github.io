@@ -3,6 +3,10 @@ layout: default
 title: Home
 ---
 
+# Welcome to My Blog
+
+Explore my latest posts below:
+
 <div class="post-list">
   {% for post in site.posts %}
   <a class="post-item" href="{{ post.url }}">
@@ -10,7 +14,7 @@ title: Home
       <h2>{{ post.title }}</h2>
       <p class="post-date">{{ post.date | date: "%B %d, %Y" }}</p>
       <p class="post-excerpt">
-        {{ post.content | strip_html | truncatewords: 35 }}...
+        {{ post.content | strip_html | truncatewords: 30 }}
       </p>
     </div>
   </a>
@@ -25,7 +29,7 @@ title: Home
   }
   .post-item {
     display: block;
-    text-decoration: none;
+    text-decoration: none; /* Remove underline */
     color: inherit;
     margin-bottom: 20px;
     padding: 20px;
@@ -37,6 +41,10 @@ title: Home
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     transform: translateY(-3px);
     background-color: #f9f9f9;
+  }
+  .post-item:hover h2, 
+  .post-item:hover p {
+    text-decoration: none; /* Ensure no underline on hover */
   }
   .post-content h2 {
     margin: 0;
