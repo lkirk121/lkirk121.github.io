@@ -3,6 +3,10 @@ layout: default
 title: Home
 ---
 
+# Welcome to My Blog
+
+Explore my latest posts below:
+
 <div class="post-list">
   {% for post in site.posts %}
   <a class="post-item" href="{{ post.url }}">
@@ -18,17 +22,27 @@ title: Home
 </div>
 
 <style>
+  /* Reset link styles globally */
+  a {
+    text-decoration: none; /* Disable underline globally for all links */
+    color: inherit; /* Inherit text color */
+  }
+
+  /* Reset underline for all child elements */
+  a * {
+    text-decoration: none !important; /* Force no underline */
+  }
+
   .post-list {
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
   }
 
-  /* Make the <a> tag block-level and remove styles */
   .post-item {
     display: block;
-    text-decoration: none; /* Ensure no underlining */
-    color: inherit; /* Inherit color for consistency */
+    text-decoration: none; /* Remove underline from link */
+    color: inherit;
     margin-bottom: 20px;
     padding: 20px;
     border: 1px solid #ddd;
@@ -36,23 +50,14 @@ title: Home
     transition: box-shadow 0.3s ease, transform 0.2s ease;
   }
 
-  /* Hover effect for the squircle */
   .post-item:hover {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     transform: translateY(-3px);
     background-color: #f9f9f9;
   }
 
-  /* Remove default link styles from child content */
-  .post-content {
-    text-decoration: none; /* Ensure child elements don't get underlined */
-  }
-
-  .post-content h2, .post-content p {
-    margin: 0;
-  }
-
   .post-content h2 {
+    margin: 0;
     font-size: 1.5em;
     color: #333;
   }
