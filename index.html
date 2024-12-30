@@ -9,66 +9,67 @@ Explore my latest posts below:
 
 <div class="post-list">
   {% for post in site.posts %}
-  <a class="post-item" href="{{ post.url }}">
-    <div class="post-content">
-      <h2>{{ post.title }}</h2>
-      <p class="post-date">{{ post.date | date: "%B %d, %Y" }}</p>
-      <p class="post-excerpt">
-        {{ post.content | strip_html | truncatewords: 50 }}...
-      </p>
-    </div>
-  </a>
+  <div class="post-item">
+    <h2>{{ post.title }}</h2>
+    <p class="post-date">{{ post.date | date: "%B %d, %Y" }}</p>
+    <p class="post-excerpt">
+      {{ post.content | strip_html | truncatewords: 50 }}...
+    </p>
+    <a href="{{ post.url }}" class="post-link" aria-label="Read more about {{ post.title }}"></a>
+  </div>
   {% endfor %}
 </div>
 
 <style>
-  /* Reset link styles globally */
-  a {
-    text-decoration: none; /* Disable underline globally for all links */
-    color: inherit; /* Inherit text color */
-  }
-
-  /* Reset underline for all child elements */
-  a * {
-    text-decoration: none !important; /* Force no underline */
-  }
-
   .post-list {
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
   }
 
+  /* Style the container */
   .post-item {
-    display: block;
-    text-decoration: none; /* Remove underline from link */
-    color: inherit;
-    margin-bottom: 20px;
+    position: relative; /* Make it a containing block for the overlay link */
     padding: 20px;
     border: 1px solid #ddd;
     border-radius: 20px; /* Squircle shape */
+    margin-bottom: 20px;
     transition: box-shadow 0.3s ease, transform 0.2s ease;
+    background-color: #fff;
   }
 
+  /* Add hover effects to the container */
   .post-item:hover {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     transform: translateY(-3px);
-    background-color: #f9f9f9;
   }
 
-  .post-content h2 {
+  /* Style the clickable link as an invisible overlay */
+  .post-link {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 1; /* Ensure it sits above content */
+    text-decoration: none; /* No underline on the link */
+    color: inherit; /* No color change */
+  }
+
+  /* Style the post content */
+  .post-item h2 {
     margin: 0;
     font-size: 1.5em;
     color: #333;
   }
 
-  .post-content .post-date {
+  .post-item .post-date {
     font-size: 0.9em;
     color: #777;
     margin-top: 5px;
   }
 
-  .post-content .post-excerpt {
+  .post-item .post-excerpt {
     font-size: 1em;
     color: #555;
     margin-top: 10px;
