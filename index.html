@@ -14,12 +14,12 @@ Explore my latest posts below:
     <p class="post-date">{{ post.date | date: "%B %d, %Y" }}</p>
     <div class="post-content">
       <p class="post-excerpt">
-        {{ post.content | strip_html | truncatewords: 50 }}...
+        {{ post.content | strip_html | truncatewords: 35 }}...
       </p>
       <a class="read-more-button" href="{{ post.url }}">Read More</a>
     </div>
   </div>
-  <hr>
+  
   {% endfor %}
 </div>
 
