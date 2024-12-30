@@ -1,25 +1,67 @@
 ---
 layout: default
+title: Home
 ---
 
-<header>
-    <p>{{ site.title }} </p>
-</header>
-<main>
-    <ul>
-        {% for post in site.posts %}
-            <li>
-                <a href="{{ post.url }}">{{ post.title }}</a>
-                <!-- 
-                <br>
-                <small>{{ post.date | date: "%B %d, %Y" }}</small>
-                -->
-            </li>
-        {% endfor %}
-    </ul>
-</main>
-<footer>
-    <p>{{ site.description }}</p>
-    <h4>Contact:</h4>
-    <p><a href="mailto:{{ site.email }}">{{site.email}}</a></p>
-</footer>
+# Welcome to My Blog
+
+Explore my latest posts below:
+
+<div class="post-list">
+  {% for post in site.posts %}
+  <div class="post-item">
+    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    <p class="post-date">{{ post.date | date: "%B %d, %Y" }}</p>
+    <p class="post-excerpt">
+      {{ post.content | strip_html | truncatewords: 50 }}...
+    </p>
+    <a class="read-more-button" href="{{ post.url }}">Read More</a>
+  </div>
+  <hr>
+  {% endfor %}
+</div>
+
+<style>
+  .post-list {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  .post-item {
+    margin-bottom: 20px;
+  }
+  .post-item h2 a {
+    color: #333;
+    text-decoration: none;
+  }
+  .post-item h2 a:hover {
+    text-decoration: underline;
+  }
+  .post-date {
+    font-size: 0.9em;
+    color: #777;
+  }
+  .post-excerpt {
+    font-size: 1em;
+    color: #555;
+    margin: 10px 0;
+  }
+  .read-more-button {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 15px;
+    background-color: #007BFF;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  .read-more-button:hover {
+    background-color: #0056b3;
+  }
+  hr {
+    border: none;
+    border-top: 1px solid #ddd;
+    margin: 20px 0;
+  }
+</style>
+
