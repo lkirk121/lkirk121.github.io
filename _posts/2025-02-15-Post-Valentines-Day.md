@@ -33,8 +33,6 @@ I took out the lighter, and initially had trouble getting anything more than a s
 
 Then I realized that the lighter needed to be held upright to hold a flame. Very carefully, I lit the first bit of birchbark, and watched the flame curl up and start to spread into the pile of birchbark next to it. I tucked the flames carefully under the stacked branches. Slowly the flame curled around them, and started climb up one small stick, and then curl over to another. Soon there was enough heat to feel, and moments later the flame lifted from the kindling and ignited the main branches in the pile. The flame climbed up, and the fire started crackling. I looked up at the small column of smoke lifting into the frozen night sky. I crawled into my shelter, flipped over onto my back, and started out at the warm orange glow of a little fire, burning away cheerfully in this small town, somewhere north of the Arctic Circle.
 
-<iframe src="https://drive.google.com/file/d/1SFr-ZqwLw7nQo5soPwSNrLq0LxfU1t8o/preview" width="640" height="480" allow="autoplay"></iframe>
-
 Admittedly, the fire was a bit small to provide any real warmth. I wasn't planning on sleeping out there that night, but still, I was more than happy to watch the warm light dance along the walls of this little snow shelter.
 
 After a little while, it was time to go back inside. I let the fire burn down for a while, and then shoveled snow onto the embers. The final plume of smoke lifted up from the fire, and vanished into the sky. The nighttime chill settled in around me. I bundled up my coat, picked up my shovel, and walked back from the shelter to my apartment.
