@@ -1,6 +1,7 @@
-
-
-Happy Post-Valentines day!
+---
+layout: post
+title: "Happy Post-Valentine's Day!"
+---
 
 What's a guy to do when it's Valentines Day in Tsiigehtchic, you're on your own, and almost everyone else has left town for "Chase the Ace" in Fort McPherson?
 
