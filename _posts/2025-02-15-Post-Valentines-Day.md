@@ -3,7 +3,7 @@ layout: post
 title: "Happy Post-Valentine's Day!"
 ---
 
-<iframe src="https://drive.google.com/file/d/1STYYpBgBUPzrkGtHQDithL_RjW2LS-3m/preview" width="640" height="480" allow="autoplay"></iframe> 
+<iframe src="https://drive.google.com/file/d/1STYYpBgBUPzrkGtHQDithL_RjW2LS-3m/preview" width=80% height=80% allow="autoplay"></iframe> 
 
 What's a guy to do when it's Valentines Day in Tsiigehtchic, you're on your own, and almost everyone else has left town for "Chase the Ace" in Fort McPherson?
 
