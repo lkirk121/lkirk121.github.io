@@ -11,7 +11,9 @@ It was initially a toss-up between watching "Notting Hill" for the tenth time, o
 
 The cold feels like a blast of frost to the face every time you open the front door. It was -50C earlier this morning, cold even by northern standards. The afternoon and evening was more like -30C. I felt a nip of frost on my nose, and pulled up my scarf to keep my face sheltered from the cold.
 
-Last weekend I'd built small snow shelter behind our school's baseball field. The baseball field is at the edge of town. Beyond it stands an endless spruce forest. There are a few trails that lead a short ways into the trees, but after that, there's nothing but trackless forest. My shelter was at the start of one of these trails, on the proverbial edge of town (but still a literal stone's throw from our school...). Look one way, I could see my apartment and the school. Look the other way and you could imagine being alone in the northern wilderness.
+https://drive.google.com/file/d/1SW0m0O1JIQJ0_dENqHYMMcezqyZLk38P/preview
+
+Last weekend I'd built small snow shelter behind our school's baseball field (the box is there to block the entrance). The baseball field is at the edge of town. Beyond it stands an endless spruce forest. There are a few trails that lead a short ways into the trees, but after that, there's nothing but trackless forest. My shelter was at the start of one of these trails, on the proverbial edge of town (but still a literal stone's throw from our school...). Look one way, I could see my apartment and the school. Look the other way and you could imagine being alone in the northern wilderness.
 
 I'd made small improvements to the snow shelter over the course of the week. Last weekend I dug out a trench long enough, and deep enough, to sit in. Wednesday after school, I added a roof made from branches and a large cardboard box (found in the forest), covered in a thick layer of snow. Tonight it was time to enjoy warming-up the shelter with a small campfire.
 
