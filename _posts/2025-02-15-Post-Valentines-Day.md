@@ -5,9 +5,7 @@ title: "Happy Post-Valentine's Day!"
 
 What's a guy to do when it's Valentines Day in Tsiigehtchic, you're on your own, and almost everyone else has left town for "Chase the Ace" in Fort McPherson?
 
-Build a snow shelter.
-
-It was initially a toss-up between watching "Notting Hill" for the tenth time, or "Bridget Jones' Diary," which has been my usual past time on Valentines Day. I mulled over the options for a short while, and decided it would be too much of a shame to sit on the couch all evening.  Instead, I hauled on my snowpants, parka, hat, gloves, and scarf; grabbed a small lighter, and the shovel for the front porch of the apartment.
+It was initially a toss-up between watching "Notting Hill" for the tenth time, or "Bridget Jones' Diary," which has been my usual past time on Valentines Day. I mulled over the options for a short while, and decided it would be too much of a shame to sit on the couch all evening.  Instead, I hauled on my snowpants, parka, hat, gloves, and scarf; grabbed a small lighter, and a shovel, and set out to build a snow shelter.
 
 The cold feels like a blast of frost to the face every time you open the front door. It was -50C earlier this morning, cold even by northern standards. The afternoon and evening was more like -30C. I felt a nip of frost on my nose, and pulled up my scarf to keep my face sheltered from the cold.
 
