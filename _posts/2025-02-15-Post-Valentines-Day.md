@@ -3,6 +3,8 @@ layout: post
 title: "Happy Post-Valentine's Day!"
 ---
 
+<iframe src="https://drive.google.com/file/d/1STYYpBgBUPzrkGtHQDithL_RjW2LS-3m/preview" width="640" height="480" allow="autoplay"></iframe> 
+
 What's a guy to do when it's Valentines Day in Tsiigehtchic, you're on your own, and almost everyone else has left town for "Chase the Ace" in Fort McPherson?
 
 It was initially a toss-up between watching "Notting Hill" for the tenth time, or "Bridget Jones' Diary," which has been my usual past time on Valentines Day. I mulled over the options for a short while, and decided it would be too much of a shame to sit on the couch all evening.  Instead, I hauled on my snowpants, parka, hat, gloves, and scarf; grabbed a small lighter, and a shovel, and set out to build a snow shelter.
