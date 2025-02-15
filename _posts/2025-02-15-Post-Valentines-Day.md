@@ -43,7 +43,7 @@ Once my coat and boots were off, I found my journal, and opened it to a new page
 
 "Valentines Day, 2025, lit a fire north of the Arctic Circle."
 
-<iframe src="https://drive.google.com/file/d/1STYYpBgBUPzrkGtHQDithL_RjW2LS-3m/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1STYYpBgBUPzrkGtHQDithL_RjW2LS-3m/preview" width=80% height=80% allow="autoplay"></iframe>
 
 It was late, and I still needed to make dinner. Now that I was back inside, I started thinking it might not be too late to watch a Valentine's Day romcom. While I was mulling over those thoughts, it occurred to me that it also would have been fun to join the "Chase the Ace" crowd in Fort McPherson. True, I don't gamble, and that was my main reason for staying in Tsiigehtchic last evening, but I realized that its not so much about the prize of the game, but about spending a social evening with people from the different communities.
 
