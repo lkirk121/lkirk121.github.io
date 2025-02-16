@@ -9,7 +9,7 @@ I'm traveling back to Tsiigehtchic to teach for the remainder of the year. First
 
 Teaching will resume soon. I can't wait for classes to begin. Teaching feels a world of infinite possibility. It's can be hard, but when things are running well, it's as exhilarating as flying. 
 
-<iframe src="https://drive.google.com/file/d/1SueFKoP2oK3il6adMZ2lg1dPu5pWjLLD/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/uc?export=view&id=1SueFKoP2oK3il6adMZ2lg1dPu5pWjLLD/preview" width="640" height="480" allow="autoplay"></iframe>
 
 I had a mid-row seat on my flight from Toronto to Calgary. I couldn't see much from the window. Instead, I struck up a conversation with the guy flying next to me. He was traveling to Japan with his girlfriend. She works for the airline, and was able to get them both standby tickets. There was only one seat in the passenger section, so he was sitting next to me, and she was sitting in a jump-seat up on the flight deck, with the pilots. We thought the view from our window was good until she sent a text looking out the front windshield. They were both flying standby, and it sounded like this was just one of many flying adventures they'd taken together. We traded stories about flying, traveling, and teaching, all the way to Calgary.
 
@@ -23,7 +23,7 @@ Yellowknife felt like a northern aviation hub. Downtown Yellowknife had a Pilot'
 
 Around noon, my flight departed for Inuvik. I could hardly contain a fresh burst of energy as I once again flew north into the Arctic Circle. We circled over Yellowknife, and then lifted above the clouds. The flight cruised north for three hours hours, and then swooped down below the fog layer for our landing. 
 
-<iframe src="https://drive.google.com/file/d/1TOFZ5kKbtqSt9JnOP0aXWzl968_mtDRW/preview"></iframe>
+<iframe src="https://drive.google.com/uc?export=view&id=1TOFZ5kKbtqSt9JnOP0aXWzl968_mtDRW"></iframe>
 
 A number other teachers arrived on the same flight. We spent a few minutes catching up, talking about our holidays. Some of them had additional connecting flights on small bushplanes, flying to extremely remote communities like Paulatuk and Aklavik. I met with a bunch of teachers from my school. We pooled together for the $450 cab ride back to Tsiigehtchic. 
 
