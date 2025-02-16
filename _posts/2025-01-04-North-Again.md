@@ -1,7 +1,7 @@
---
+---
 layout: post
-title" "North Again"
---
+title: "North Again"
+---
 
 Nothing can compare to the thrill of flying to the North. All the hassle getting through airport security seems to vanish as soon as the airplane is pushed back from the gate and taxis out to the runway. The engines roar to full throttle, and moments later the whole aircraft speeds down the runway, until suddenly it lifts into the air. The wings bank west, first to Calgary, then northwest to Yellowknife, and then north to Inuvik. 
 
