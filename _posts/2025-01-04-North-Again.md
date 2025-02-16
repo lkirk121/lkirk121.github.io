@@ -3,8 +3,6 @@ layout: post
 title: "North Again"
 ---
 
-<iframe src="https://drive.google.com/file/d/1TOFZ5kKbtqSt9JnOP0aXWzl968_mtDRW/preview" width="640" height="480" allow="autoplay"></iframe>
-
 Nothing can compare to the thrill of flying to the North. All the hassle getting through airport security seems to vanish as soon as the airplane is pushed back from the gate and taxis out to the runway. The engines roar to full throttle, and moments later the whole aircraft speeds down the runway, until suddenly it lifts into the air. The wings bank west, first to Calgary, then northwest to Yellowknife, and then north to Inuvik. 
 
 I'm traveling back to Tsiigehtchic to teach for the remainder of the year. First semester was certainly challenging, and there were moments when I seriously considered not returning. The greatest challenge, and greatest reward, is how dependent our school is on each person who works there. There are no back-up staff: if someone is sick, there's no supply teacher to cover them - that person becomes you. On any day you can end up filling the shoes of a teacher, maintenance staff, custodial staff, and office staff. It's like being on a submarine: submariners know how to do every task on the ship, so that if someone becomes incapacitated, the sub can still operate. Our school feels very much the same. 
@@ -24,8 +22,6 @@ After leaving the airport, I took a taxi to the "Sunset B&B," a small in-home Be
 Yellowknife felt like a northern aviation hub. Downtown Yellowknife had a Pilot's Memorial Park located on the waterfront. The airport itself was a hive of activity with bushplanes on skiis, helicopters, twin-engine short-haul passenger planes flying north, and economy jetliners flying south. I wish I could have stayed another day just to watch the different flights landing and taking off from the runway. 
 
 Around noon, my flight departed for Inuvik. I could hardly contain a fresh burst of energy as I once again flew north into the Arctic Circle. We circled over Yellowknife, and then lifted above the clouds. The flight cruised north for three hours hours, and then swooped down below the fog layer for our landing. 
-
-<iframe src="https://drive.google.com/file/d/1TOFZ5kKbtqSt9JnOP0aXWzl968_mtDRW/preview" allow="autoplay"></iframe>
 
 A number other teachers arrived on the same flight. We spent a few minutes catching up, talking about our holidays. Some of them had additional connecting flights on small bushplanes, flying to extremely remote communities like Paulatuk and Aklavik. I met with a bunch of teachers from my school. We pooled together for the $450 cab ride back to Tsiigehtchic. 
 
