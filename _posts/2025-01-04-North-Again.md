@@ -25,7 +25,7 @@ Yellowknife felt like a northern aviation hub. Downtown Yellowknife had a Pilot'
 
 Around noon, my flight departed for Inuvik. I could hardly contain a fresh burst of energy as I once again flew north into the Arctic Circle. We circled over Yellowknife, and then lifted above the clouds. The flight cruised north for three hours hours, and then swooped down below the fog layer for our landing. 
 
-<iframe src="https://drive.google.com/uc?export=view&id=1TOFZ5kKbtqSt9JnOP0aXWzl968_mtDRW"></iframe>
+<iframe src="https://drive.google.com/uc?export=view&id=1TOFZ5kKbtqSt9JnOP0aXWzl968_mtDRW/preview"></iframe>
 
 A number other teachers arrived on the same flight. We spent a few minutes catching up, talking about our holidays. Some of them had additional connecting flights on small bushplanes, flying to extremely remote communities like Paulatuk and Aklavik. I met with a bunch of teachers from my school. We pooled together for the $450 cab ride back to Tsiigehtchic. 
 
