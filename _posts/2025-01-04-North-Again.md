@@ -11,7 +11,12 @@ Teaching will resume soon. I can't wait for classes to begin. Teaching feels a w
 
 ![window](https://drive.google.com/file/d/1SueFKoP2oK3il6adMZ2lg1dPu5pWjLLD/preview)
 
+window^
+
 <iframe src="https://drive.google.com/file/d/1SxDapJViSDBGC9spOKFUHEaK0tr6RLJ2/preview" width="480" height="360"></iframe>
+
+entire airplane ^
+original window v
 
 <iframe src="https://drive.google.com/file/d/1SueFKoP2oK3il6adMZ2lg1dPu5pWjLLD/preview" width="640" height="480" allow="autoplay"></iframe>
 
